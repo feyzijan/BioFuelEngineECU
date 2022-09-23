@@ -1,0 +1,1154 @@
+=~=~=~=~=~=~=~=~=~=~=~= PuTTY log 2022.06.04 13:43:25 =~=~=~=~=~=~=~=~=~=~=~=
+                                                                                                                    
+Started program
+IAT(K): 300
+MAP(P): 25000
+Torque(Nm): 35
+RPM: 3000
+Thermal Efficiency: 40%
+Power(W):	4392
+----Air and Fuel flow calculations---
+M_air (mg/s):	44.63
+M_fuel_desired (mg/s):	4.58
+t_fuel(ms):	2.69
+
+Random Impulse:	 1.01
+Actual fuel injection rate(mg/s):	 4.62
+Resulting Power:	4435.92
+Resulting RPM:	3030.00
+Resulting AFR:	 
+9.65
+Too much fuel injected, pump less fuel next time
+Adjust fuel next time by a factor of:	0.98
+----Air and Fuel flow calculations---
+M_air (mg/s):	45.07
+M_fuel_desired (mg/s):	4.53
+t_fuel(ms):	2.66
+
+Random Impulse:	 0.98
+Actual fuel injection rate(mg/s):	 4.44
+Resulting Power:	4304.16
+Resulting RPM:	2969.40
+Resulting AFR:	 
+10.15
+Too little fuel injected, pump more fuel next time
+Adjust fuel next time by a factor of:	1.02
+----Air and Fuel flow calculations---
+M_air (mg/s):	44.17
+M_fuel_desired (mg/s):	4.62
+t_fuel(ms):	2.71
+
+Random Impulse:	 0.98
+Actual fuel injection rate(mg/s):	 4.53
+Resulting Power:	4304.16
+Resulting RPM:	2910.01
+Resulting AFR:	 
+9.75
+Too much fuel injected, pump less fuel next time
+Adjust fuel next time by a factor of:	1.00
+----Air and Fuel flow calculations---
+M_air (mg/s):	43.29
+M_fuel_desired (mg/s):	4.44
+t_fuel(ms):	2.61
+
+Random Impulse:	 0.99
+Actual fuel injection rate(mg/s):	 4.39
+Resulting Power:	4348.08
+Resulting RPM:	2880.91
+Resulting AFR:	 
+9.85
+Too little fuel injected, pump more fuel next time
+Adjust fuel next time by a factor of:	1.01
+----Air and Fuel flow calculations---
+M_air (mg/s):	42.85
+M_fuel_desired (mg/s):	4.42
+t_fuel(ms):	2.59
+
+Random Impulse:	 0.97
+Actual fuel injection rate(mg/s):	 4.29
+Resulting Power:	4260.24
+Resulting RPM:	2794.48
+Resulting AFR:	 
+10.00
+Too little fuel injected, pump more fuel next time
+Adjust fuel next time by a factor of:	1.01
+----Air and Fuel flow calculations---
+M_air (mg/s):	41.57
+M_fuel_desired (mg/s):	4.32
+t_fuel(ms):	2.53
+
+Random Impulse:	 0.97
+Actual fuel injection rate(mg/s):	 4.19
+Resulting Power:	4260.24
+Resulting RPM:	2710.65
+Resulting AFR:	 
+9.92
+Too little fuel injected, pump more fuel next time
+Adjust fuel next time by a factor of:	1.01
+----Air and Fuel flow calculations---
+M_air (mg/s):	40.32
+M_fuel_desired (mg/s):	4.17
+t_fuel(ms):	2.45
+
+Random Impulse:	 1.00
+Actual fuel injection rate(mg/s):	 4.17
+Resulting Power:	4392.00
+Resulting RPM:	2710.65
+Resulting AFR:	 
+9.66
+Too much fuel injected, pump less fuel next time
+Adjust fuel next time by a factor of:	0.98
+----Air and Fuel flow calculations---
+M_air (mg/s):	40.32
+M_fuel_desired (mg/s):	4.06
+t_fuel(ms):	2.38
+
+Random Impulse:	 1.02
+Actual fuel injection rate(mg/s):	 4.14
+Resulting Power:	4479.84
+Resulting RPM:	2764.86
+Resulting AFR:	 
+9.73
+Too much fuel injected, pump less fuel next time
+Adjust fuel next time by a factor of:	1.00
+----Air and Fuel flow calculations---
+M_air (mg/s):	41.13
+M_fuel_desired (mg/s):	4.20
+t_fuel(ms):	2.47
+
+Random Impulse:	 0.98
+Actual fuel injection rate(mg/s):	 4.12
+Resulting Power:	4304.16
+Resulting RPM:	2709.57
+Resulting AFR:	 
+9.99
+Too little fuel injected, pump more fuel next time
+Adjust fuel next time by a factor of:	1.01
+----Air and Fuel flow calculations---
+M_air (mg/s):	40.30
+M_fuel_desired (mg/s):	4.18
+t_fuel(ms):	2.46
+
+Random Impulse:	 1.02
+Actual fuel injection rate(mg/s):	 4.27
+Resulting Power:	4479.84
+Resulting RPM:	2763.76
+Resulting AFR:	 
+9.44
+Too much fuel injected, pump less fuel next time
+Adjust fuel next time by a factor of:	0.94
+----Air and Fuel flow calculations---
+M_air (mg/s):	41.11
+M_fuel_desired (mg/s):	3.96
+t_fuel(ms):	2.32
+
+Random Impulse:	 0.97
+Actual fuel injection rate(mg/s):	 3.84
+Resulting Power:	4260.24
+Resulting RPM:	2680.84
+Resulting AFR:	 
+10.72
+Too little fuel injected, pump more fuel next time
+Adjust fuel next time by a factor of:	1.05
+----Air and Fuel flow calculations---
+M_air (mg/s):	39.88
+M_fuel_desired (mg/s):	4.29
+t_fuel(ms):	2.52
+
+Random Impulse:	 0.97
+Actual fuel injection rate(mg/s):	 4.16
+Resulting Power:	4260.24
+Resulting RPM:	2600.42
+Resulting AFR:	 
+9.58
+Too much fuel injected, pump less fuel next time
+Adjust fuel next time by a factor of:	0.96
+----Air and Fuel flow calculations---
+M_air (mg/s):	38.68
+M_fuel_desired (mg/s):	3.83
+t_fuel(ms):	2.25
+
+Random Impulse:	 0.97
+Actual fuel injection rate(mg/s):	 3.71
+Resulting Power:	4260.24
+Resulting RPM:	2522.41
+Resulting AFR:	 
+10.42
+Too little fuel injected, pump more fuel next time
+Adjust fuel next time by a factor of:	1.03
+----Air and Fuel flow calculations---
+M_air (mg/s):	37.52
+M_fuel_desired (mg/s):	3.98
+t_fuel(ms):	2.34
+
+Random Impulse:	 0.97
+Actual fuel injection rate(mg/s):	 3.86
+Resulting Power:	4260.24
+Resulting RPM:	2446.73
+Resulting AFR:	 
+9.72
+Too much fuel injected, pump less fuel next time
+Adjust fuel next time by a factor of:	0.99
+----Air and Fuel flow calculations---
+M_air (mg/s):	36.40
+M_fuel_desired (mg/s):	3.71
+t_fuel(ms):	2.18
+
+Random Impulse:	 0.97
+Actual fuel injection rate(mg/s):	 3.60
+Resulting Power:	4260.24
+Resulting RPM:	2373.33
+Resulting AFR:	 
+10.12
+Too little fuel injected, pump more fuel next time
+Adjust fuel next time by a factor of:	1.02
+----Air and Fuel flow calculations---
+M_air (mg/s):	35.30
+M_fuel_desired (mg/s):	3.69
+t_fuel(ms):	2.16
+
+Random Impulse:	 0.98
+Actual fuel injection rate(mg/s):	 3.62
+Resulting Power:	4304.16
+Resulting RPM:	2325.87
+Resulting AFR:	 
+9.77
+Too little fuel injected, pump more fuel next time
+Adjust fuel next time by a factor of:	1.00
+----Air and Fuel flow calculations---
+M_air (mg/s):	34.60
+M_fuel_desired (mg/s):	3.55
+t_fuel(ms):	2.08
+
+Random Impulse:	 0.98
+Actual fuel injection rate(mg/s):	 3.48
+Resulting Power:	4304.16
+Resulting RPM:	2279.35
+Resulting AFR:	 
+9.94
+Too little fuel injected, pump more fuel next time
+Adjust fuel next time by a factor of:	1.01
+----Air and Fuel flow calculations---
+M_air (mg/s):	33.91
+M_fuel_desired (mg/s):	3.51
+t_fuel(ms):	2.06
+
+Random Impulse:	 0.97
+Actual fuel injection rate(mg/s):	 3.41
+Resulting Power:	4260.24
+Resulting RPM:	2210.97
+Resulting AFR:	 
+9.95
+Too little fuel injected, pump more fuel next time
+Adjust fuel next time by a factor of:	1.01
+----Air and Fuel flow calculations---
+M_air (mg/s):	32.89
+M_fuel_desired (mg/s):	3.41
+t_fuel(ms):	2.00
+
+Random Impulse:	 0.98
+Actual fuel injection rate(mg/s):	 3.34
+Resulting Power:	4304.16
+Resulting RPM:	2166.75
+Resulting AFR:	 
+9.85
+Too little fuel injected, pump more fuel next time
+Adjust fuel next time by a factor of:	1.00
+----Air and Fuel flow calculations---
+M_air (mg/s):	32.23
+M_fuel_desired (mg/s):	3.32
+t_fuel(ms):	1.95
+
+Random Impulse:	 0.97
+Actual fuel injection rate(mg/s):	 3.22
+Resulting Power:	4260.24
+Resulting RPM:	2101.75
+Resulting AFR:	 
+10.00
+Too little fuel injected, pump more fuel next time
+Adjust fuel next time by a factor of:	1.01
+----Air and Fuel flow calculations---
+M_air (mg/s):	31.26
+M_fuel_desired (mg/s):	3.25
+t_fuel(ms):	1.91
+
+Random Impulse:	 0.99
+Actual fuel injection rate(mg/s):	 3.22
+Resulting Power:	4348.08
+Resulting RPM:	2080.73
+Resulting AFR:	 
+9.72
+Too much fuel injected, pump less fuel next time
+Adjust fuel next time by a factor of:	0.99
+----Air and Fuel flow calculations---
+M_air (mg/s):	30.95
+M_fuel_desired (mg/s):	3.16
+t_fuel(ms):	1.85
+
+Random Impulse:	 0.97
+Actual fuel injection rate(mg/s):	 3.06
+Resulting Power:	4260.24
+Resulting RPM:	2018.31
+Resulting AFR:	 
+10.11
+Too little fuel injected, pump more fuel next time
+Adjust fuel next time by a factor of:	1.02
+----Air and Fuel flow calculations---
+M_air (mg/s):	30.02
+M_fuel_desired (mg/s):	3.14
+t_fuel(ms):	1.84
+
+Random Impulse:	 0.99
+Actual fuel injection rate(mg/s):	 3.10
+Resulting Power:	4348.08
+Resulting RPM:	1998.12
+Resulting AFR:	 
+9.67
+Too much fuel injected, pump less fuel next time
+Adjust fuel next time by a factor of:	0.98
+----Air and Fuel flow calculations---
+M_air (mg/s):	29.72
+M_fuel_desired (mg/s):	3.00
+t_fuel(ms):	1.76
+
+Random Impulse:	 0.97
+Actual fuel injection rate(mg/s):	 2.91
+Resulting Power:	4260.24
+Resulting RPM:	1938.18
+Resulting AFR:	 
+10.22
+Too little fuel injected, pump more fuel next time
+Adjust fuel next time by a factor of:	1.02
+----Air and Fuel flow calculations---
+M_air (mg/s):	28.83
+M_fuel_desired (mg/s):	3.03
+t_fuel(ms):	1.78
+
+Random Impulse:	 0.99
+Actual fuel injection rate(mg/s):	 3.00
+Resulting Power:	4348.08
+Resulting RPM:	1918.80
+Resulting AFR:	 
+9.62
+Too much fuel injected, pump less fuel next time
+Adjust fuel next time by a factor of:	0.97
+----Air and Fuel flow calculations---
+M_air (mg/s):	28.54
+M_fuel_desired (mg/s):	2.85
+t_fuel(ms):	1.67
+
+Random Impulse:	 0.97
+Actual fuel injection rate(mg/s):	 2.76
+Resulting Power:	4260.24
+Resulting RPM:	1861.24
+Resulting AFR:	 
+10.33
+Too little fuel injected, pump more fuel next time
+Adjust fuel next time by a factor of:	1.03
+----Air and Fuel flow calculations---
+M_air (mg/s):	27.69
+M_fuel_desired (mg/s):	2.92
+t_fuel(ms):	1.72
+
+Random Impulse:	 0.99
+Actual fuel injection rate(mg/s):	 2.89
+Resulting Power:	4348.08
+Resulting RPM:	1842.62
+Resulting AFR:	 
+9.56
+Too much fuel injected, pump less fuel next time
+Adjust fuel next time by a factor of:	0.96
+----Air and Fuel flow calculations---
+M_air (mg/s):	27.41
+M_fuel_desired (mg/s):	2.71
+t_fuel(ms):	1.59
+
+Random Impulse:	 0.98
+Actual fuel injection rate(mg/s):	 2.65
+Resulting Power:	4304.16
+Resulting RPM:	1805.77
+Resulting AFR:	 
+10.34
+Too little fuel injected, pump more fuel next time
+Adjust fuel next time by a factor of:	1.03
+----Air and Fuel flow calculations---
+M_air (mg/s):	26.86
+M_fuel_desired (mg/s):	2.84
+t_fuel(ms):	1.67
+
+Random Impulse:	 0.98
+Actual fuel injection rate(mg/s):	 2.78
+Resulting Power:	4304.16
+Resulting RPM:	1769.66
+Resulting AFR:	 
+9.66
+Too much fuel injected, pump less fuel next time
+Adjust fuel next time by a factor of:	0.98
+----Air and Fuel flow calculations---
+M_air (mg/s):	26.32
+M_fuel_desired (mg/s):	2.65
+t_fuel(ms):	1.55
+
+Random Impulse:	 0.98
+Actual fuel injection rate(mg/s):	 2.60
+Resulting Power:	4304.16
+Resulting RPM:	1734.26
+Resulting AFR:	 
+10.14
+Too little fuel injected, pump more fuel next time
+Adjust fuel next time by a factor of:	1.02
+----Air and Fuel flow calculations---
+M_air (mg/s):	25.80
+M_fuel_desired (mg/s):	2.70
+t_fuel(ms):	1.58
+
+Random Impulse:	 0.97
+Actual fuel injection rate(mg/s):	 2.62
+Resulting Power:	4260.24
+Resulting RPM:	1682.23
+Resulting AFR:	 
+9.85
+Too little fuel injected, pump more fuel next time
+Adjust fuel next time by a factor of:	1.01
+----Air and Fuel flow calculations---
+M_air (mg/s):	25.02
+M_fuel_desired (mg/s):	2.58
+t_fuel(ms):	1.51
+
+Random Impulse:	 0.97
+Actual fuel injection rate(mg/s):	 2.50
+Resulting Power:	4260.24
+Resulting RPM:	1631.77
+Resulting AFR:	 
+10.00
+Too little fuel injected, pump more fuel next time
+Adjust fuel next time by a factor of:	1.01
+----Air and Fuel flow calculations---
+M_air (mg/s):	24.27
+M_fuel_desired (mg/s):	2.52
+t_fuel(ms):	1.48
+
+Random Impulse:	 0.98
+Actual fuel injection rate(mg/s):	 2.47
+Resulting Power:	4304.16
+Resulting RPM:	1599.13
+Resulting AFR:	 
+9.82
+Too little fuel injected, pump more fuel next time
+Adjust fuel next time by a factor of:	1.00
+----Air and Fuel flow calculations---
+M_air (mg/s):	23.79
+M_fuel_desired (mg/s):	2.45
+t_fuel(ms):	1.44
+
+Random Impulse:	 1.02
+Actual fuel injection rate(mg/s):	 2.50
+Resulting Power:	4479.84
+Resulting RPM:	1631.11
+Resulting AFR:	 
+9.52
+Too much fuel injected, pump less fuel next time
+Adjust fuel next time by a factor of:	0.95
+----Air and Fuel flow calculations---
+M_air (mg/s):	24.26
+M_fuel_desired (mg/s):	2.37
+t_fuel(ms):	1.39
+
+Random Impulse:	 1.02
+Actual fuel injection rate(mg/s):	 2.42
+Resulting Power:	4479.84
+Resulting RPM:	1663.74
+Resulting AFR:	 
+10.02
+Too little fuel injected, pump more fuel next time
+Adjust fuel next time by a factor of:	1.01
+----Air and Fuel flow calculations---
+M_air (mg/s):	24.75
+M_fuel_desired (mg/s):	2.57
+t_fuel(ms):	1.51
+
+Random Impulse:	 0.97
+Actual fuel injection rate(mg/s):	 2.50
+Resulting Power:	4260.24
+Resulting RPM:	1613.82
+Resulting AFR:	 
+9.91
+Too little fuel injected, pump more fuel next time
+Adjust fuel next time by a factor of:	1.01
+----Air and Fuel flow calculations---
+M_air (mg/s):	24.01
+M_fuel_desired (mg/s):	2.48
+t_fuel(ms):	1.46
+
+Random Impulse:	 0.97
+Actual fuel injection rate(mg/s):	 2.41
+Resulting Power:	4260.24
+Resulting RPM:	1565.41
+Resulting AFR:	 
+9.97
+Too little fuel injected, pump more fuel next time
+Adjust fuel next time by a factor of:	1.01
+----Air and Fuel flow calculations---
+M_air (mg/s):	23.29
+M_fuel_desired (mg/s):	2.41
+t_fuel(ms):	1.42
+
+Random Impulse:	 0.97
+Actual fuel injection rate(mg/s):	 2.34
+Resulting Power:	4260.24
+Resulting RPM:	1518.45
+Resulting AFR:	 
+9.94
+Too little fuel injected, pump more fuel next time
+Adjust fuel next time by a factor of:	1.01
+----Air and Fuel flow calculations---
+M_air (mg/s):	22.59
+M_fuel_desired (mg/s):	2.34
+t_fuel(ms):	1.37
+
+Random Impulse:	 0.97
+Actual fuel injection rate(mg/s):	 2.27
+Resulting Power:	4260.24
+Resulting RPM:	1472.89
+Resulting AFR:	 
+9.95
+Too little fuel injected, pump more fuel next time
+Adjust fuel next time by a factor of:	1.01
+----Air and Fuel flow calculations---
+M_air (mg/s):	21.91
+M_fuel_desired (mg/s):	2.27
+t_fuel(ms):	1.33
+
+Random Impulse:	 0.97
+Actual fuel injection rate(mg/s):	 2.20
+Resulting Power:	4260.24
+Resulting RPM:	1428.71
+Resulting AFR:	 
+9.95
+Too little fuel injected, pump more fuel next time
+Adjust fuel next time by a factor of:	1.01
+----Air and Fuel flow calculations---
+M_air (mg/s):	21.25
+M_fuel_desired (mg/s):	2.20
+t_fuel(ms):	1.29
+
+Random Impulse:	 0.97
+Actual fuel injection rate(mg/s):	 2.14
+Resulting Power:	4260.24
+Resulting RPM:	1385.85
+Resulting AFR:	 
+9.95
+Too little fuel injected, pump more fuel next time
+Adjust fuel next time by a factor of:	1.01
+----Air and Fuel flow calculations---
+M_air (mg/s):	20.61
+M_fuel_desired (mg/s):	2.14
+t_fuel(ms):	1.25
+
+Random Impulse:	 1.02
+Actual fuel injection rate(mg/s):	 2.18
+Resulting Power:	4479.84
+Resulting RPM:	1413.56
+Resulting AFR:	 
+9.46
+Too much fuel injected, pump less fuel next time
+Adjust fuel next time by a factor of:	0.94
+----Air and Fuel flow calculations---
+M_air (mg/s):	21.03
+M_fuel_desired (mg/s):	2.03
+t_fuel(ms):	1.19
+
+Random Impulse:	 1.02
+Actual fuel injection rate(mg/s):	 2.07
+Resulting Power:	4479.84
+Resulting RPM:	1441.83
+Resulting AFR:	 
+10.15
+Too little fuel injected, pump more fuel next time
+Adjust fuel next time by a factor of:	1.02
+----Air and Fuel flow calculations---
+M_air (mg/s):	21.45
+M_fuel_desired (mg/s):	2.24
+t_fuel(ms):	1.32
+
+Random Impulse:	 0.97
+Actual fuel injection rate(mg/s):	 2.18
+Resulting Power:	4260.24
+Resulting RPM:	1398.58
+Resulting AFR:	 
+9.85
+Too little fuel injected, pump more fuel next time
+Adjust fuel next time by a factor of:	1.01
+----Air and Fuel flow calculations---
+M_air (mg/s):	20.80
+M_fuel_desired (mg/s):	2.14
+t_fuel(ms):	1.26
+
+Random Impulse:	 0.97
+Actual fuel injection rate(mg/s):	 2.08
+Resulting Power:	4260.24
+Resulting RPM:	1356.62
+Resulting AFR:	 
+10.00
+Too little fuel injected, pump more fuel next time
+Adjust fuel next time by a factor of:	1.01
+----Air and Fuel flow calculations---
+M_air (mg/s):	20.18
+M_fuel_desired (mg/s):	2.10
+t_fuel(ms):	1.23
+
+Random Impulse:	 0.97
+Actual fuel injection rate(mg/s):	 2.03
+Resulting Power:	4260.24
+Resulting RPM:	1315.92
+Resulting AFR:	 
+9.92
+Too little fuel injected, pump more fuel next time
+Adjust fuel next time by a factor of:	1.01
+----Air and Fuel flow calculations---
+M_air (mg/s):	19.57
+M_fuel_desired (mg/s):	2.03
+t_fuel(ms):	1.19
+
+Random Impulse:	 0.98
+Actual fuel injection rate(mg/s):	 1.99
+Resulting Power:	4304.16
+Resulting RPM:	1289.61
+Resulting AFR:	 
+9.86
+Too little fuel injected, pump more fuel next time
+Adjust fuel next time by a factor of:	1.01
+----Air and Fuel flow calculations---
+M_air (mg/s):	19.18
+M_fuel_desired (mg/s):	1.98
+t_fuel(ms):	1.16
+
+Random Impulse:	 1.02
+Actual fuel injection rate(mg/s):	 2.02
+Resulting Power:	4479.84
+Resulting RPM:	1315.40
+Resulting AFR:	 
+9.50
+Too much fuel injected, pump less fuel next time
+Adjust fuel next time by a factor of:	0.95
+----Air and Fuel flow calculations---
+M_air (mg/s):	19.57
+M_fuel_desired (mg/s):	1.91
+t_fuel(ms):	1.12
+
+Random Impulse:	 0.97
+Actual fuel injection rate(mg/s):	 1.85
+Resulting Power:	4260.24
+Resulting RPM:	1275.94
+Resulting AFR:	 
+10.58
+Too little fuel injected, pump more fuel next time
+Adjust fuel next time by a factor of:	1.04
+----Air and Fuel flow calculations---
+M_air (mg/s):	18.98
+M_fuel_desired (mg/s):	2.03
+t_fuel(ms):	1.19
+
+Random Impulse:	 0.97
+Actual fuel injection rate(mg/s):	 1.97
+Resulting Power:	4260.24
+Resulting RPM:	1237.66
+Resulting AFR:	 
+9.64
+Too much fuel injected, pump less fuel next time
+Adjust fuel next time by a factor of:	0.98
+----Air and Fuel flow calculations---
+M_air (mg/s):	18.41
+M_fuel_desired (mg/s):	1.85
+t_fuel(ms):	1.08
+
+Random Impulse:	 1.02
+Actual fuel injection rate(mg/s):	 1.88
+Resulting Power:	4479.84
+Resulting RPM:	1262.41
+Resulting AFR:	 
+9.77
+Too little fuel injected, pump more fuel next time
+Adjust fuel next time by a factor of:	1.00
+----Air and Fuel flow calculations---
+M_air (mg/s):	18.78
+M_fuel_desired (mg/s):	1.93
+t_fuel(ms):	1.13
+
+Random Impulse:	 0.99
+Actual fuel injection rate(mg/s):	 1.91
+Resulting Power:	4348.08
+Resulting RPM:	1249.79
+Resulting AFR:	 
+9.84
+Too little fuel injected, pump more fuel next time
+Adjust fuel next time by a factor of:	1.00
+----Air and Fuel flow calculations---
+M_air (mg/s):	18.59
+M_fuel_desired (mg/s):	1.92
+t_fuel(ms):	1.12
+
+Random Impulse:	 1.02
+Actual fuel injection rate(mg/s):	 1.95
+Resulting Power:	4479.84
+Resulting RPM:	1274.78
+Resulting AFR:	 
+9.52
+Too much fuel injected, pump less fuel next time
+Adjust fuel next time by a factor of:	0.95
+----Air and Fuel flow calculations---
+M_air (mg/s):	18.96
+M_fuel_desired (mg/s):	1.85
+t_fuel(ms):	1.09
+
+Random Impulse:	 0.99
+Actual fuel injection rate(mg/s):	 1.83
+Resulting Power:	4348.08
+Resulting RPM:	1262.03
+Resulting AFR:	 
+10.34
+Too little fuel injected, pump more fuel next time
+Adjust fuel next time by a factor of:	1.03
+----Air and Fuel flow calculations---
+M_air (mg/s):	18.77
+M_fuel_desired (mg/s):	1.98
+t_fuel(ms):	1.16
+
+Random Impulse:	 1.01
+Actual fuel injection rate(mg/s):	 2.00
+Resulting Power:	4435.92
+Resulting RPM:	1274.65
+Resulting AFR:	 
+9.37
+Too much fuel injected, pump less fuel next time
+Adjust fuel next time by a factor of:	0.92
+----Air and Fuel flow calculations---
+M_air (mg/s):	18.96
+M_fuel_desired (mg/s):	1.80
+t_fuel(ms):	1.05
+
+Random Impulse:	 0.99
+Actual fuel injection rate(mg/s):	 1.78
+Resulting Power:	4348.08
+Resulting RPM:	1261.91
+Resulting AFR:	 
+10.66
+Too little fuel injected, pump more fuel next time
+Adjust fuel next time by a factor of:	1.05
+----Air and Fuel flow calculations---
+M_air (mg/s):	18.77
+M_fuel_desired (mg/s):	2.02
+t_fuel(ms):	1.18
+
+Random Impulse:	 1.01
+Actual fuel injection rate(mg/s):	 2.04
+Resulting Power:	4435.92
+Resulting RPM:	1274.53
+Resulting AFR:	 
+9.22
+Too much fuel injected, pump less fuel next time
+Adjust fuel next time by a factor of:	0.89
+----Air and Fuel flow calculations---
+M_air (mg/s):	18.96
+M_fuel_desired (mg/s):	1.74
+t_fuel(ms):	1.02
+
+Random Impulse:	 0.99
+Actual fuel injection rate(mg/s):	 1.72
+Resulting Power:	4348.08
+Resulting RPM:	1261.78
+Resulting AFR:	 
+11.01
+Too little fuel injected, pump more fuel next time
+Adjust fuel next time by a factor of:	1.06
+----Air and Fuel flow calculations---
+M_air (mg/s):	18.77
+M_fuel_desired (mg/s):	2.05
+t_fuel(ms):	1.20
+
+Random Impulse:	 1.01
+Actual fuel injection rate(mg/s):	 2.07
+Resulting Power:	4435.92
+Resulting RPM:	1274.40
+Resulting AFR:	 
+9.07
+Too much fuel injected, pump less fuel next time
+Adjust fuel next time by a factor of:	0.87
+----Air and Fuel flow calculations---
+M_air (mg/s):	18.96
+M_fuel_desired (mg/s):	1.68
+t_fuel(ms):	0.99
+
+Random Impulse:	 0.99
+Actual fuel injection rate(mg/s):	 1.67
+Resulting Power:	4348.08
+Resulting RPM:	1261.66
+Resulting AFR:	 
+11.38
+Too little fuel injected, pump more fuel next time
+Adjust fuel next time by a factor of:	1.08
+----Air and Fuel flow calculations---
+M_air (mg/s):	18.77
+M_fuel_desired (mg/s):	2.09
+t_fuel(ms):	1.22
+
+Random Impulse:	 1.01
+Actual fuel injection rate(mg/s):	 2.11
+Resulting Power:	4435.92
+Resulting RPM:	1274.27
+Resulting AFR:	 
+8.91
+Too much fuel injected, pump less fuel next time
+Adjust fuel next time by a factor of:	0.83
+----Air and Fuel flow calculations---
+M_air (mg/s):	18.95
+M_fuel_desired (mg/s):	1.62
+t_fuel(ms):	0.95
+
+Random Impulse:	 0.97
+Actual fuel injection rate(mg/s):	 1.57
+Resulting Power:	4260.24
+Resulting RPM:	1236.04
+Resulting AFR:	 
+12.04
+Too little fuel injected, pump more fuel next time
+Adjust fuel next time by a factor of:	1.12
+----Air and Fuel flow calculations---
+M_air (mg/s):	18.39
+M_fuel_desired (mg/s):	2.11
+t_fuel(ms):	1.24
+
+Random Impulse:	 1.02
+Actual fuel injection rate(mg/s):	 2.15
+Resulting Power:	4479.84
+Resulting RPM:	1260.76
+Resulting AFR:	 
+8.55
+Too much fuel injected, pump less fuel next time
+Adjust fuel next time by a factor of:	0.77
+----Air and Fuel flow calculations---
+M_air (mg/s):	18.75
+M_fuel_desired (mg/s):	1.48
+t_fuel(ms):	0.87
+
+Random Impulse:	 1.02
+Actual fuel injection rate(mg/s):	 1.51
+Resulting Power:	4479.84
+Resulting RPM:	1285.98
+Resulting AFR:	 
+12.42
+Too little fuel injected, pump more fuel next time
+Adjust fuel next time by a factor of:	1.14
+----Air and Fuel flow calculations---
+M_air (mg/s):	19.13
+M_fuel_desired (mg/s):	2.23
+t_fuel(ms):	1.31
+
+Random Impulse:	 0.97
+Actual fuel injection rate(mg/s):	 2.16
+Resulting Power:	4260.24
+Resulting RPM:	1247.40
+Resulting AFR:	 
+8.84
+Too much fuel injected, pump less fuel next time
+Adjust fuel next time by a factor of:	0.82
+----Air and Fuel flow calculations---
+M_air (mg/s):	18.56
+M_fuel_desired (mg/s):	1.56
+t_fuel(ms):	0.92
+
+Random Impulse:	 1.01
+Actual fuel injection rate(mg/s):	 1.58
+Resulting Power:	4435.92
+Resulting RPM:	1259.87
+Resulting AFR:	 
+11.74
+Too little fuel injected, pump more fuel next time
+Adjust fuel next time by a factor of:	1.10
+----Air and Fuel flow calculations---
+M_air (mg/s):	18.74
+M_fuel_desired (mg/s):	2.12
+t_fuel(ms):	1.24
+
+Random Impulse:	 0.99
+Actual fuel injection rate(mg/s):	 2.10
+Resulting Power:	4348.08
+Resulting RPM:	1247.28
+Resulting AFR:	 
+8.94
+Too much fuel injected, pump less fuel next time
+Adjust fuel next time by a factor of:	0.84
+----Air and Fuel flow calculations---
+M_air (mg/s):	18.55
+M_fuel_desired (mg/s):	1.60
+t_fuel(ms):	0.94
+
+Random Impulse:	 1.01
+Actual fuel injection rate(mg/s):	 1.61
+Resulting Power:	4435.92
+Resulting RPM:	1259.75
+Resulting AFR:	 
+11.49
+Too little fuel injected, pump more fuel next time
+Adjust fuel next time by a factor of:	1.09
+----Air and Fuel flow calculations---
+M_air (mg/s):	18.74
+M_fuel_desired (mg/s):	2.09
+t_fuel(ms):	1.23
+
+Random Impulse:	 0.99
+Actual fuel injection rate(mg/s):	 2.07
+Resulting Power:	4348.08
+Resulting RPM:	1247.15
+Resulting AFR:	 
+9.04
+Too much fuel injected, pump less fuel next time
+Adjust fuel next time by a factor of:	0.86
+----Air and Fuel flow calculations---
+M_air (mg/s):	18.55
+M_fuel_desired (mg/s):	1.64
+t_fuel(ms):	0.96
+
+Random Impulse:	 1.02
+Actual fuel injection rate(mg/s):	 1.67
+Resulting Power:	4479.84
+Resulting RPM:	1272.09
+Resulting AFR:	 
+11.12
+Too little fuel injected, pump more fuel next time
+Adjust fuel next time by a factor of:	1.07
+----Air and Fuel flow calculations---
+M_air (mg/s):	18.92
+M_fuel_desired (mg/s):	2.08
+t_fuel(ms):	1.22
+
+Random Impulse:	 0.99
+Actual fuel injection rate(mg/s):	 2.06
+Resulting Power:	4348.08
+Resulting RPM:	1259.37
+Resulting AFR:	 
+9.20
+Too much fuel injected, pump less fuel next time
+Adjust fuel next time by a factor of:	0.89
+----Air and Fuel flow calculations---
+M_air (mg/s):	18.73
+M_fuel_desired (mg/s):	1.71
+t_fuel(ms):	1.00
+
+Random Impulse:	 0.97
+Actual fuel injection rate(mg/s):	 1.66
+Resulting Power:	4260.24
+Resulting RPM:	1221.59
+Resulting AFR:	 
+11.28
+Too little fuel injected, pump more fuel next time
+Adjust fuel next time by a factor of:	1.08
+----Air and Fuel flow calculations---
+M_air (mg/s):	18.17
+M_fuel_desired (mg/s):	2.01
+t_fuel(ms):	1.18
+
+Random Impulse:	 0.98
+Actual fuel injection rate(mg/s):	 1.97
+Resulting Power:	4304.16
+Resulting RPM:	1197.16
+Resulting AFR:	 
+9.22
+Too much fuel injected, pump less fuel next time
+Adjust fuel next time by a factor of:	0.89
+----Air and Fuel flow calculations---
+M_air (mg/s):	17.81
+M_fuel_desired (mg/s):	1.63
+t_fuel(ms):	0.96
+
+Random Impulse:	 0.98
+Actual fuel injection rate(mg/s):	 1.60
+Resulting Power:	4304.16
+Resulting RPM:	1173.22
+Resulting AFR:	 
+11.12
+Too little fuel injected, pump more fuel next time
+Adjust fuel next time by a factor of:	1.07
+----Air and Fuel flow calculations---
+M_air (mg/s):	17.45
+M_fuel_desired (mg/s):	1.92
+t_fuel(ms):	1.12
+
+Random Impulse:	 1.02
+Actual fuel injection rate(mg/s):	 1.95
+Resulting Power:	4479.84
+Resulting RPM:	1196.68
+Resulting AFR:	 
+8.93
+Too much fuel injected, pump less fuel next time
+Adjust fuel next time by a factor of:	0.84
+----Air and Fuel flow calculations---
+M_air (mg/s):	17.80
+M_fuel_desired (mg/s):	1.53
+t_fuel(ms):	0.90
+
+Random Impulse:	 0.99
+Actual fuel injection rate(mg/s):	 1.52
+Resulting Power:	4348.08
+Resulting RPM:	1184.71
+Resulting AFR:	 
+11.73
+Too little fuel injected, pump more fuel next time
+Adjust fuel next time by a factor of:	1.10
+----Air and Fuel flow calculations---
+M_air (mg/s):	17.62
+M_fuel_desired (mg/s):	1.99
+t_fuel(ms):	1.17
+
+Random Impulse:	 1.01
+Actual fuel injection rate(mg/s):	 2.01
+Resulting Power:	4435.92
+Resulting RPM:	1196.56
+Resulting AFR:	 
+8.76
+Too much fuel injected, pump less fuel next time
+Adjust fuel next time by a factor of:	0.81
+----Air and Fuel flow calculations---
+M_air (mg/s):	17.80
+M_fuel_desired (mg/s):	1.47
+t_fuel(ms):	0.87
+
+Random Impulse:	 0.99
+Actual fuel injection rate(mg/s):	 1.46
+Resulting Power:	4348.08
+Resulting RPM:	1184.60
+Resulting AFR:	 
+12.19
+Too little fuel injected, pump more fuel next time
+Adjust fuel next time by a factor of:	1.13
+----Air and Fuel flow calculations---
+M_air (mg/s):	17.62
+M_fuel_desired (mg/s):	2.03
+t_fuel(ms):	1.19
+
+Random Impulse:	 1.01
+Actual fuel injection rate(mg/s):	 2.05
+Resulting Power:	4435.92
+Resulting RPM:	1196.44
+Resulting AFR:	 
+8.58
+Too much fuel injected, pump less fuel next time
+Adjust fuel next time by a factor of:	0.77
+----Air and Fuel flow calculations---
+M_air (mg/s):	17.80
+M_fuel_desired (mg/s):	1.41
+t_fuel(ms):	0.83
+
+Random Impulse:	 0.97
+Actual fuel injection rate(mg/s):	 1.37
+Resulting Power:	4260.24
+Resulting RPM:	1160.55
+Resulting AFR:	 
+12.99
+Too little fuel injected, pump more fuel next time
+Adjust fuel next time by a factor of:	1.17
+----Air and Fuel flow calculations---
+M_air (mg/s):	17.26
+M_fuel_desired (mg/s):	2.06
+t_fuel(ms):	1.21
+
+Random Impulse:	 0.97
+Actual fuel injection rate(mg/s):	 2.00
+Resulting Power:	4260.24
+Resulting RPM:	1125.73
+Resulting AFR:	 
+8.62
+Too much fuel injected, pump less fuel next time
+Adjust fuel next time by a factor of:	0.78
+----Air and Fuel flow calculations---
+M_air (mg/s):	16.75
+M_fuel_desired (mg/s):	1.34
+t_fuel(ms):	0.79
+
+Random Impulse:	 1.01
+Actual fuel injection rate(mg/s):	 1.36
+Resulting Power:	4435.92
+Resulting RPM:	1136.99
+Resulting AFR:	 
+12.35
+Too little fuel injected, pump more fuel next time
+Adjust fuel next time by a factor of:	1.13
+----Air and Fuel flow calculations---
+M_air (mg/s):	16.91
+M_fuel_desired (mg/s):	1.97
+t_fuel(ms):	1.15
+
+Random Impulse:	 0.99
+Actual fuel injection rate(mg/s):	 1.95
+Resulting Power:	4348.08
+Resulting RPM:	1125.62
+Resulting AFR:	 
+8.69
+Too much fuel injected, pump less fuel next time
+Adjust fuel next time by a factor of:	0.79
+----Air and Fuel flow calculations---
+M_air (mg/s):	16.74
+M_fuel_desired (mg/s):	1.36
+t_fuel(ms):	0.80
+
+Random Impulse:	 1.01
+Actual fuel injection rate(mg/s):	 1.38
+Resulting Power:	4435.92
+Resulting RPM:	1136.88
+Resulting AFR:	 
+12.15
+Too little fuel injected, pump more fuel next time
+Adjust fuel next time by a factor of:	1.12
+----Air and Fuel flow calculations---
+M_air (mg/s):	16.91
+M_fuel_desired (mg/s):	1.95
+t_fuel(ms):	1.14
+
+Random Impulse:	 0.98
+Actual fuel injection rate(mg/s):	 1.91
+Resulting Power:	4304.16
+Resulting RPM:	1114.14
+Resulting AFR:	 
+8.86
+Too much fuel injected, pump less fuel next time
+Adjust fuel next time by a factor of:	0.83
+----Air and Fuel flow calculations---
+M_air (mg/s):	16.57
+M_fuel_desired (mg/s):	1.40
+t_fuel(ms):	0.82
+
+Random Impulse:	 1.02
+Actual fuel injection rate(mg/s):	 1.43
+Resulting Power:	4479.84
+Resulting RPM:	1136.42
+Resulting AFR:	 
+11.58
+Too little fuel injected, pump more fuel next time
+Adjust fuel next time by a factor of:	1.09
+----Air and Fuel flow calculations---
+M_air (mg/s):	16.90
+M_fuel_desired (mg/s):	1.90
+t_fuel(ms):	1.11
+
+Random Impulse:	 0.98
+Actual fuel injection rate(mg/s):	 1.86
+Resulting Power:	4304.16
+Resulting RPM:	1113.69
+Resulting AFR:	 
+9.10
+Too much fuel injected, pump less fuel next time
+Adjust fuel next time by a factor of:	0.87
+----Air and Fuel flow calculations---
+M_air (mg/s):	16.57
+M_fuel_desired (mg/s):	1.48
+t_fuel(ms):	0.87
+
+Random Impulse:	 0.98
+Actual fuel injection rate(mg/s):	 1.45
+Resulting Power:	4304.16
+Resulting RPM:	1091.42
+Resulting AFR:	 
+11.43
+Too little fuel injected, pump more fuel next time
+Adjust fuel next time by a factor of:	1.09
+----Air and Fuel flow calcula

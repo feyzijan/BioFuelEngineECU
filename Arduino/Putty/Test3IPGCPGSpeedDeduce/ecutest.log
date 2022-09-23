@@ -1,0 +1,65 @@
+=~=~=~=~=~=~=~=~=~=~=~= PuTTY log 2022.06.04 11:54:48 =~=~=~=~=~=~=~=~=~=~=~=
+Started program
+Commencing Operation:
+
+IPG Sensing, time between 12 peaks (microseconds)
+T_ipg (Average of last 12): 	 1664
+T_ipg (Average of last 12): 	 1649
+T_ipg (Average of last 12): 	 1664
+T_ipg (Average of last 12): 	 1655
+
+CPG Sensing,time between 2 TDC (microseconds)
+T_cpg: 	 18195
+T_cpg: 	 18320
+T_cpg: 	 17890
+T_cpg: 	 18375
+
+Crankshaft speed(rps): 	49.89
+Camshaft speed(rps): 27.48
+Mismatch in , as% of crank rps: -10.17
+Too high of a mismatch, sensors inconsistent
+Commence Shutdown
+
+
+
+Commencing Operation:
+
+IPG Sensing, time between 12 peaks (microseconds)
+T_ipg (Average of last 12): 	 1650
+T_ipg (Average of last 12): 	 1649
+T_ipg (Average of last 12): 	 1652
+T_ipg (Average of last 12): 	 1649
+
+CPG Sensing,time between 2 TDC (microseconds)
+T_cpg: 	 6271
+T_cpg: 	 6332
+T_cpg: 	 6298
+T_cpg: 	 6536
+Crankshaft speed(rps): 	
+50.51
+Camshaft speed(rps):	
+26.21
+Mismatch in , as% of crank rps: 	
+-3.79
+
+Commencing Operation:
+
+IPG Sensing, time between 12 peaks (microseconds)
+T_ipg (Average of last 12): 	 1657
+T_ipg (Average of last 12): 	 1657
+T_ipg (Average of last 12): 	 1650
+T_ipg (Average of last 12): 	 1658
+
+CPG Sensing,time between 2 TDC (microseconds)
+T_cpg: 	 6501
+T_cpg: 	 6298
+T_cpg: 	 6687
+T_cpg: 	 7007
+Crankshaft speed(rps): 	
+49.96
+Camshaft speed(rps):	
+25.14
+Mismatch in , as% of crank rps: 	
+-0.64
+
+

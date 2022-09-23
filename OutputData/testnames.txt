@@ -1,0 +1,62 @@
+If 10 readings dont devaite by 1 degree then stop/move forward?
+
+
+log1 : Empty pcb, no fan, just heater on
+log2: Empty pcb, 80mm fan on middle, heater on
+
+Actual tests on Assembled pcb
+log3: Middle 80 fan, fan and heater on
+log4: Middle 80 fan, fan off, heater on
+log5: Ambient of assembled pcb ( no heater no fan)
+
+
+1-5 are pretty much useless
+
+__________
+---- Now put a sensor right underneath the heating plate
+
+Test6:
+Test with middle 80 fan, heater on fan off at the beginning
+
+_______________
+Test 7: Turn on both fan and heater at the beginning
+
+Test 8: Repeat test 6
+
+_____
+Test 9:
+Fan configuration changed : corner fan
+Start heater and fan at the same time
+
+Test 10
+start heater first, then fan after it settles
+- note: mega shut off midway
+____
+Test 11:
+Fan above igbt sorta /on the side / near the grill
+Start heater and fan from the beginning
+Test 12:
+Start heater first, then fan
+________
+Test 13:
+Fan on the side, opposite the side of the grill
+Start heater and fan from the beginning
+Test 14:
+Heater on then fan
+_____
+Test 15:
+Middle 60mm fan
+turn heater and fan on at the same time
+
+Test 16:
+Turn heater first and then fan
+____
+Test 17:
+Repeat of test 9
+
+Test 18:
+Repeat of test 10
+
+
+
+ 	

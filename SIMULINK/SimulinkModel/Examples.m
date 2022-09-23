@@ -1,0 +1,2 @@
+openExample('simulink_automotive/ModelingEngineTimingUsingTriggeredSubsystemsExample')
+openExample('simulink_automotive/EngineTimingModelWithClosedLoopControlExample')

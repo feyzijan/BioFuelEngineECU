@@ -1,0 +1,203 @@
+=~=~=~=~=~=~=~=~=~=~=~= PuTTY log 2022.06.03 20:05:36 =~=~=~=~=~=~=~=~=~=~=~=
+Started program
+
+IAT(K):	338
+MAP(P):	24930
+ECT(K):	368
+ECT cold enough, (<100C)- Not too hot - No change Needed
+Lambda:	9.72
+AFR withn 5% of AFR Stochiometric. Mixture balanced
+Fuel_T(K):	322
+Fuel Temp Sufficiently High (>30C): Heater Inactive
+PCB_temp:	299
+Calculation time (microseconds)
+5
+m_air (mg/s):	39.63
+m_fuel(mg/s):	4.06
+t_fuel(ms):	2.39
+
+Calculation time (microseconds)
+4
+m_air (mg/s):	39.50
+m_fuel(mg/s):	4.05
+t_fuel(ms):	2.38
+
+Calculation time (microseconds)
+3
+m_air (mg/s):	39.63
+m_fuel(mg/s):	4.06
+t_fuel(ms):	2.39
+
+Calculation time (microseconds)
+4
+m_air (mg/s):	39.63
+m_fuel(mg/s):	4.06
+t_fuel(ms):	2.39
+
+Calculation time (microseconds)
+4
+m_air (mg/s):	38.70
+m_fuel(mg/s):	3.97
+t_fuel(ms):	2.33
+
+Calculation time (microseconds)
+4
+m_air (mg/s):	39.87
+m_fuel(mg/s):	4.09
+t_fuel(ms):	2.40
+
+Calculation time (microseconds)
+4
+m_air (mg/s):	39.87
+m_fuel(mg/s):	4.09
+t_fuel(ms):	2.40
+
+Calculation time (microseconds)
+4
+m_air (mg/s):	39.04
+m_fuel(mg/s):	4.00
+t_fuel(ms):	2.35
+
+Calculation time (microseconds)
+3
+m_air (mg/s):	39.99
+m_fuel(mg/s):	4.10
+t_fuel(ms):	2.41
+
+Calculation time (microseconds)
+3
+m_air (mg/s):	39.99
+m_fuel(mg/s):	4.10
+t_fuel(ms):	2.41
+
+Calculation time (microseconds)
+4
+m_air (mg/s):	39.41
+m_fuel(mg/s):	4.04
+t_fuel(ms):	2.37
+
+Calculation time (microseconds)
+4
+m_air (mg/s):	40.23
+m_fuel(mg/s):	4.13
+t_fuel(ms):	2.42
+
+Calculation time (microseconds)
+3
+m_air (mg/s):	40.23
+m_fuel(mg/s):	4.13
+t_fuel(ms):	2.42
+
+Calculation time (microseconds)
+4
+m_air (mg/s):	40.21
+m_fuel(mg/s):	4.12
+t_fuel(ms):	2.42
+
+Calculation time (microseconds)
+4
+m_air (mg/s):	39.40
+m_fuel(mg/s):	4.04
+t_fuel(ms):	2.37
+
+Calculation time (microseconds)
+3
+m_air (mg/s):	40.35
+m_fuel(mg/s):	4.14
+t_fuel(ms):	2.43
+
+Calculation time (microseconds)
+4
+m_air (mg/s):	40.35
+m_fuel(mg/s):	4.14
+t_fuel(ms):	2.43
+
+Calculation time (microseconds)
+4
+m_air (mg/s):	39.40
+m_fuel(mg/s):	4.04
+t_fuel(ms):	2.37
+
+Calculation time (microseconds)
+5
+m_air (mg/s):	40.33
+m_fuel(mg/s):	4.14
+t_fuel(ms):	2.43
+
+Calculation time (microseconds)
+3
+m_air (mg/s):	40.47
+m_fuel(mg/s):	4.15
+t_fuel(ms):	2.44
+
+Calculation time (microseconds)
+4
+m_air (mg/s):	40.47
+m_fuel(mg/s):	4.15
+t_fuel(ms):	2.44
+
+Calculation time (microseconds)
+4
+m_air (mg/s):	35.16
+m_fuel(mg/s):	3.61
+t_fuel(ms):	2.12
+
+Calculation time (microseconds)
+3
+m_air (mg/s):	31.61
+m_fuel(mg/s):	3.24
+t_fuel(ms):	1.90
+
+Calculation time (microseconds)
+4
+m_air (mg/s):	31.75
+m_fuel(mg/s):	3.26
+t_fuel(ms):	1.91
+
+Calculation time (microseconds)
+4
+m_air (mg/s):	27.66
+m_fuel(mg/s):	2.84
+t_fuel(ms):	1.66
+
+Calculation time (microseconds)
+4
+m_air (mg/s):	28.48
+m_fuel(mg/s):	2.92
+t_fuel(ms):	1.71
+
+Calculation time (microseconds)
+3
+m_air (mg/s):	25.21
+m_fuel(mg/s):	2.59
+t_fuel(ms):	1.52
+
+Calculation time (microseconds)
+4
+m_air (mg/s):	25.21
+m_fuel(mg/s):	2.59
+t_fuel(ms):	1.52
+
+Calculation time (microseconds)
+5
+m_air (mg/s):	25.21
+m_fuel(mg/s):	2.59
+t_fuel(ms):	1.52
+
+Calculation time (microseconds)
+3
+m_air (mg/s):	25.07
+m_fuel(mg/s):	2.57
+t_fuel(ms):	1.51
+
+Calculation time (microseconds)
+4
+m_air (mg/s):	25.21
+m_fuel(mg/s):	2.59
+t_fuel(ms):	1.52
+
+Calculation time (microseconds)
+4
+m_air (mg/s):	24.25
+m_fuel(mg/s):	2.49
+t_fuel(ms):	1.46

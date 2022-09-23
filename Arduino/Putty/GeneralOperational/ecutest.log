@@ -1,0 +1,640 @@
+=~=~=~=~=~=~=~=~=~=~=~= PuTTY log 2022.06.03 18:43:29 =~=~=~=~=~=~=~=~=~=~=~=
+Begin Test:
+Interrupt triggered by CPG Pulse:
+Count= 0  Peak corresponds to TDC1
+Crank_position= 0 degrees
+
+Begin regular operation:
+No Unsafe Conditions Detected - Resume Operations
+IPG Sensing, time between 3 peaks (microseconds)
+T_ipg (Average of last 3): 	 416
+IAT(K):	354.72
+MAP(P):	25012
+ECT(K):	367.48
+ECT cold enough, (<100C)- Not too hot - No change Needed
+Lambda:	10.24
+--AFR > 1.05AFR Stochiometric, Mixture too lean, Pump More fuel
+Fuel_T(K):	323.10
+---Fuel Temp Sufficiently High (>30C): Heater Inactive
+PCB_temp:	299.78
+Air flow rate(g/s) = 10.31 
+T_inj(ms) = 1.55
+Calculation time (microseconds): 648
+
+
+
+IAT(K):	354.72
+MAP(P):	9728.12
+ECT(K):	367.09
+ECT cold enQough, (<100C)- Not too hot - No change Needed
+Lambda:	9.78
+AFR within 5% of AFR Stochiometric. Mixture balanced
+Fuel_T(K):	323.10
+Fuel Temp Sufficiently High (>30C): Heater Inactive
+PCB_temp:	299.78
+
+
+IAT(K):	354.85
+MAP(P):	9728.12
+ECT(K):	367.48
+ECT cold enough, (<100C)- Not too hot - No change Needed
+Lambda:	9.73
+AFR withn 5% of AFR Stochiometric. Mixture balanced
+Fuel_T(K):	323.10
+Fuel Temp Sufficiently High (>30C): Heater Inactive
+PCB_temp:	299.78
+
+
+IAT(K):	354.72
+MAP(P):	9728.12
+ECT(K):	367.48
+ECT cold enough, (<100C)- Not too hot - No change Needed
+Lambda:	9.78
+AFR withn 5% of AFR Stochiometric. Mixture balanced
+Fuel_T(K):	323.10
+Fuel Temp Sufficiently High (>30C): Heater Inactive
+PCB_temp:	299.78
+
+
+IAT(K):	354.72
+MAP(P):	9728.12
+ECT(K):	367.09
+ECT cold enough, (<100C)- Not too hot - No change Needed
+Lambda:	9.78
+AFR withn 5% of AFR Stochiometric. Mixture balanced
+Fuel_T(K):	323.10
+Fuel Temp Sufficiently High (>30C): Heater Inactive
+PCB_temp:	299.78
+
+
+IAT(K):	354.85
+MAP(P):	9728.12
+ECT(K):	367.54
+ECT cold enough, (<100C)- Not too hot - No change Needed
+Lambda:	9.84
+AFR withn 5% of AFR Stochiometric. Mixture balanced
+Fuel_T(K):	323.10
+Fuel Temp Sufficiently High (>30C): Heater Inactive
+PCB_temp:	299.74
+
+
+IAT(K):	354.82
+MAP(P):	9728.12
+ECT(K):	367.54
+ECT cold enough, (<100C)- Not too hot - No change Needed
+Lambda:	10.01
+AFR withn 5% of AFR Stochiometric. Mixture balanced
+Fuel_T(K):	323.10
+Fuel Temp Sufficiently High (>30C): Heater Inactive
+PCB_temp:	299.74
+
+
+IAT(K):	354.72
+MAP(P):	9677.58
+ECT(K):	367.09
+ECT cold enough, (<100C)- Not too hot - No change Needed
+Lambda:	10.01
+AFR withn 5% of AFR Stochiometric. Mixture balanced
+Fuel_T(K):	323.10
+Fuel Temp Sufficiently High (>30C): Heater Inactive
+PCB_temp:	299.74
+
+
+IAT(K):	354.85
+MAP(P):	9728.12
+ECT(K):	367.48
+ECT cold enough, (<100C)- Not too hot - No change Needed
+Lambda:	10.09
+AFR withn 5% of AFR Stochiometric. Mixture balanced
+Fuel_T(K):	323.10
+Fuel Temp Sufficiently High (>30C): Heater Inactive
+PCB_temp:	299.74
+
+
+IAT(K):	354.72
+MAP(P):	9728.12
+ECT(K):	367.48
+ECT cold enough, (<100C)- Not too hot - No change Needed
+Lambda:	10.25
+AFR > 1.05AFR Stochiometric, Mixture too lean
+Pump More fuel
+Fuel_T(K):	323.10
+Fuel Temp Sufficiently High (>30C): Heater Inactive
+PCB_temp:	299.74
+
+
+IAT(K):	354.72
+MAP(P):	9728.12
+ECT(K):	367.09
+ECT cold enough, (<100C)- Not too hot - No change Needed
+Lambda:	10.24
+AFR > 1.05AFR Stochiometric, Mixture too lean
+Pump More fuel
+Fuel_T(K):	323.10
+Fuel Temp Sufficiently High (>30C): Heater Inactive
+PCB_temp:	299.74
+
+
+IAT(K):	354.85
+MAP(P):	9728.12
+ECT(K):	367.54
+ECT cold enough, (<100C)- Not too hot - No change Needed
+Lambda:	10.31
+AFR > 1.05AFR Stochiometric, Mixture too lean
+Pump More fuel
+Fuel_T(K):	323.10
+Fuel Temp Sufficiently High (>30C): Heater Inactive
+PCB_temp:	299.74
+
+
+IAT(K):	354.72
+MAP(P):	9728.12
+ECT(K):	367.48
+ECT cold enough, (<100C)- Not too hot - No change Needed
+Lambda:	10.48
+AFR > 1.05AFR Stochiometric, Mixture too lean
+Pump More fuel
+Fuel_T(K):	323.10
+Fuel Temp Sufficiently High (>30C): Heater Inactive
+PCB_temp:	299.74
+
+
+IAT(K):	354.72
+MAP(P):	9728.12
+ECT(K):	367.54
+ECT cold enough, (<100C)- Not too hot - No change Needed
+Lambda:	10.48
+AFR > 1.05AFR Stochiometric, Mixture too lean
+Pump More fuel
+Fuel_T(K):	323.10
+Fuel Temp Sufficiently High (>30C): Heater Inactive
+PCB_temp:	299.74
+
+
+IAT(K):	354.85
+MAP(P):	9728.12
+ECT(K):	367.54
+ECT cold enough, (<100C)- Not too hot - No change Needed
+Lambda:	10.44
+AFR > 1.05AFR Stochiometric, Mixture too lean
+Pump More fuel
+Fuel_T(K):	323.49
+Fuel Temp Sufficiently High (>30C): Heater Inactive
+PCB_temp:	299.74
+
+
+IAT(K):	354.72
+MAP(P):	9669.16
+ECT(K):	367.09
+ECT cold enough, (<100C)- Not too hot - No change Needed
+Lambda:	10.48
+AFR > 1.05AFR Stochiometric, Mixture too lean
+Pump More fuel
+Fuel_T(K):	323.89
+Fuel Temp Sufficiently High (>30C): Heater Inactive
+PCB_temp:	299.74
+
+
+IAT(K):	354.85
+MAP(P):	9728.12
+ECT(K):	367.48
+ECT cold enough, (<100C)- Not too hot - No change Needed
+Lambda:	10.44
+AFR > 1.05AFR Stochiometric, Mixture too lean
+Pump More fuel
+Fuel_T(K):	324.28
+Fuel Temp Sufficiently High (>30C): Heater Inactive
+PCB_temp:	299.74
+
+
+IAT(K):	354.85
+MAP(P):	9728.12
+ECT(K):	367.48
+ECT cold enough, (<100C)- Not too hot - No change Needed
+Lambda:	10.43
+AFR > 1.05AFR Stochiometric, Mixture too lean
+Pump More fuel
+Fuel_T(K):	323.89
+Fuel Temp Sufficiently High (>30C): Heater Inactive
+PCB_temp:	299.74
+
+
+IAT(K):	354.72
+MAP(P):	9677.58
+ECT(K):	367.09
+ECT cold enough, (<100C)- Not too hot - No change Needed
+Lambda:	10.48
+AFR > 1.05AFR Stochiometric, Mixture too lean
+Pump More fuel
+Fuel_T(K):	323.49
+Fuel Temp Sufficiently High (>30C): Heater Inactive
+PCB_temp:	299.74
+
+
+IAT(K):	354.85
+MAP(P):	9728.12
+ECT(K):	367.48
+ECT cold enough, (<100C)- Not too hot - No change Needed
+Lambda:	10.44
+AFR > 1.05AFR Stochiometric, Mixture too lean
+Pump More fuel
+Fuel_T(K):	323.49
+Fuel Temp Sufficiently High (>30C): Heater Inactive
+PCB_temp:	299.74
+
+
+IAT(K):	354.72
+MAP(P):	9728.12
+ECT(K):	367.48
+ECT cold enough, (<100C)- Not too hot - No change Needed
+Lambda:	10.48
+AFR > 1.05AFR Stochiometric, Mixture too lean
+Pump More fuel
+Fuel_T(K):	323.10
+Fuel Temp Sufficiently High (>30C): Heater Inactive
+PCB_temp:	299.74
+
+
+IAT(K):	354.72
+MAP(P):	9728.12
+ECT(K):	367.48
+ECT cold enough, (<100C)- Not too hot - No change Needed
+Lambda:	10.48
+AFR > 1.05AFR Stochiometric, Mixture too lean
+Pump More fuel
+Fuel_T(K):	322.71
+Fuel Temp Sufficiently High (>30C): Heater Inactive
+PCB_temp:	299.74
+
+
+IAT(K):	354.85
+MAP(P):	9728.12
+ECT(K):	367.48
+ECT cold enough, (<100C)- Not too hot - No change Needed
+Lambda:	10.44
+AFR > 1.05AFR Stochiometric, Mixture too lean
+Pump More fuel
+Fuel_T(K):	322.32
+Fuel Temp Sufficiently High (>30C): Heater Inactive
+PCB_temp:	299.74
+
+
+IAT(K):	354.72
+MAP(P):	9728.12
+ECT(K):	367.09
+ECT cold enough, (<100C)- Not too hot - No change Needed
+Lambda:	10.48
+AFR > 1.05AFR Stochiometric, Mixture too lean
+Pump More fuel
+Fuel_T(K):	321.92
+Fuel Temp Sufficiently High (>30C): Heater Inactive
+PCB_temp:	299.74
+
+
+IAT(K):	354.72
+MAP(P):	9728.12
+ECT(K):	367.54
+ECT cold enough, (<100C)- Not too hot - No change Needed
+Lambda:	10.48
+AFR > 1.05AFR Stochiometric, Mixture too lean
+Pump More fuel
+Fuel_T(K):	321.53
+Fuel Temp Sufficiently High (>30C): Heater Inactive
+PCB_temp:	299.74
+
+
+IAT(K):	354.85
+MAP(P):	9728.12
+ECT(K):	367.54
+ECT cold enough, (<100C)- Not too hot - No change Needed
+Lambda:	10.44
+AFR > 1.05AFR Stochiometric, Mixture too lean
+Pump More fuel
+Fuel_T(K):	321.14
+Fuel Temp Sufficiently High (>30C): Heater Inactive
+PCB_temp:	299.74
+
+
+IAT(K):	354.72
+MAP(P):	9677.58
+ECT(K):	367.09
+ECT cold enough, (<100C)- Not too hot - No change Needed
+Lambda:	10.48
+AFR > 1.05AFR Stochiometric, Mixture too lean
+Pump More fuel
+Fuel_T(K):	320.75
+Fuel Temp Sufficiently High (>30C): Heater Inactive
+PCB_temp:	299.74
+
+
+IAT(K):	354.85
+MAP(P):	9728.12
+ECT(K):	367.54
+ECT cold enough, (<100C)- Not too hot - No change Needed
+Lambda:	10.43
+AFR > 1.05AFR Stochiometric, Mixture too lean
+Pump More fuel
+Fuel_T(K):	320.75
+Fuel Temp Sufficiently High (>30C): Heater Inactive
+PCB_temp:	299.74
+
+
+IAT(K):	354.72
+MAP(P):	9728.12
+ECT(K):	367.54
+ECT cold enough, (<100C)- Not too hot - No change Needed
+Lambda:	10.48
+AFR > 1.05AFR Stochiometric, Mixture too lean
+Pump More fuel
+Fuel_T(K):	320.31
+Fuel Temp Sufficiently High (>30C): Heater Inactive
+PCB_temp:	299.74
+
+
+IAT(K):	354.72
+MAP(P):	9728.12
+ECT(K):	367.54
+ECT cold enough, (<100C)- Not too hot - No change Needed
+Lambda:	10.48
+AFR > 1.05AFR Stochiometric, Mixture too lean
+Pump More fuel
+Fuel_T(K):	319.96
+Fuel Temp Sufficiently High (>30C): Heater Inactive
+PCB_temp:	299.74
+
+
+IAT(K):	354.85
+MAP(P):	9728.12
+ECT(K):	367.48
+ECT cold enough, (<100C)- Not too hot - No change Needed
+Lambda:	10.44
+AFR > 1.05AFR Stochiometric, Mixture too lean
+Pump More fuel
+Fuel_T(K):	319.96
+Fuel Temp Sufficiently High (>30C): Heater Inactive
+PCB_temp:	299.74
+
+
+IAT(K):	354.72
+MAP(P):	9728.12
+ECT(K):	367.48
+ECT cold enough, (<100C)- Not too hot - No change Needed
+Lambda:	10.48
+AFR > 1.05AFR Stochiometric, Mixture too lean
+Pump More fuel
+Fuel_T(K):	319.96
+Fuel Temp Sufficiently High (>30C): Heater Inactive
+PCB_temp:	299.74
+
+
+IAT(K):	354.72
+MAP(P):	9728.12
+ECT(K):	367.48
+ECT cold enough, (<100C)- Not too hot - No change Needed
+Lambda:	10.48
+AFR > 1.05AFR Stochiometric, Mixture too lean
+Pump More fuel
+Fuel_T(K):	319.96
+Fuel Temp Sufficiently High (>30C): Heater Inactive
+PCB_temp:	299.74
+
+
+IAT(K):	354.85
+MAP(P):	9728.12
+ECT(K):	366.96
+ECT cold enough, (<100C)- Not too hot - No change Needed
+Lambda:	10.44
+AFR > 1.05AFR Stochiometric, Mixture too lean
+Pump More fuel
+Fuel_T(K):	319.96
+Fuel Temp Sufficiently High (>30C): Heater Inactive
+PCB_temp:	299.74
+
+
+IAT(K):	354.72
+MAP(P):	9677.58
+ECT(K):	366.07
+ECT cold enough, (<100C)- Not too hot - No change Needed
+Lambda:	10.48
+AFR > 1.05AFR Stochiometric, Mixture too lean
+Pump More fuel
+Fuel_T(K):	320.26
+Fuel Temp Sufficiently High (>30C): Heater Inactive
+PCB_temp:	299.74
+
+
+IAT(K):	354.85
+MAP(P):	9728.12
+ECT(K):	365.94
+ECT cold enough, (<100C)- Not too hot - No change Needed
+Lambda:	10.44
+AFR > 1.05AFR Stochiometric, Mixture too lean
+Pump More fuel
+Fuel_T(K):	319.96
+Fuel Temp Sufficiently High (>30C): Heater Inactive
+PCB_temp:	299.74
+
+
+IAT(K):	354.85
+MAP(P):	9728.12
+ECT(K):	365.94
+ECT cold enough, (<100C)- Not too hot - No change Needed
+Lambda:	10.48
+AFR > 1.05AFR Stochiometric, Mixture too lean
+Pump More fuel
+Fuel_T(K):	319.96
+Fuel Temp Sufficiently High (>30C): Heater Inactive
+PCB_temp:	299.74
+
+
+IAT(K):	354.72
+MAP(P):	9728.12
+ECT(K):	365.55
+ECT cold enough, (<100C)- Not too hot - No change Needed
+Lambda:	10.48
+AFR > 1.05AFR Stochiometric, Mixture too lean
+Pump More fuel
+Fuel_T(K):	319.96
+Fuel Temp Sufficiently High (>30C): Heater Inactive
+PCB_temp:	299.74
+
+
+IAT(K):	355.01
+MAP(P):	9795.50
+ECT(K):	365.42
+ECT cold enough, (<100C)- Not too hot - No change Needed
+Lambda:	10.49
+AFR > 1.05AFR Stochiometric, Mixture too lean
+Pump More fuel
+Fuel_T(K):	320.36
+Fuel Temp Sufficiently High (>30C): Heater Inactive
+PCB_temp:	299.74
+
+
+IAT(K):	355.05
+MAP(P):	9862.88
+ECT(K):	364.98
+ECT cold enough, (<100C)- Not too hot - No change Needed
+Lambda:	10.59
+AFR > 1.05AFR Stochiometric, Mixture too lean
+Pump More fuel
+Fuel_T(K):	320.75
+Fuel Temp Sufficiently High (>30C): Heater Inactive
+PCB_temp:	299.74
+
+
+IAT(K):	355.05
+MAP(P):	9862.88
+ECT(K):	364.91
+ECT cold enough, (<100C)- Not too hot - No change Needed
+Lambda:	10.60
+AFR > 1.05AFR Stochiometric, Mixture too lean
+Pump More fuel
+Fuel_T(K):	320.75
+Fuel Temp Sufficiently High (>30C): Heater Inactive
+PCB_temp:	299.74
+
+
+IAT(K):	355.34
+MAP(P):	9930.26
+ECT(K):	364.40
+ECT cold enough, (<100C)- Not too hot - No change Needed
+Lambda:	10.61
+AFR > 1.05AFR Stochiometric, Mixture too lean
+Pump More fuel
+Fuel_T(K):	321.14
+Fuel Temp Sufficiently High (>30C): Heater Inactive
+PCB_temp:	299.74
+
+
+IAT(K):	355.38
+MAP(P):	9947.11
+ECT(K):	363.50
+ECT cold enough, (<100C)- Not too hot - No change Needed
+Lambda:	10.72
+AFR > 1.05AFR Stochiometric, Mixture too lean
+Pump More fuel
+Fuel_T(K):	321.53
+Fuel Temp Sufficiently High (>30C): Heater Inactive
+PCB_temp:	299.74
+
+
+IAT(K):	355.38
+MAP(P):	9997.64
+ECT(K):	363.89
+ECT cold enough, (<100C)- Not too hot - No change Needed
+Lambda:	10.68
+AFR > 1.05AFR Stochiometric, Mixture too lean
+Pump More fuel
+Fuel_T(K):	321.53
+Fuel Temp Sufficiently High (>30C): Heater Inactive
+PCB_temp:	299.74
+
+
+IAT(K):	355.34
+MAP(P):	9930.26
+ECT(K):	364.40
+ECT cold enough, (<100C)- Not too hot - No change Needed
+Lambda:	10.61
+AFR > 1.05AFR Stochiometric, Mixture too lean
+Pump More fuel
+Fuel_T(K):	321.14
+Fuel Temp Sufficiently High (>30C): Heater Inactive
+PCB_temp:	299.74
+
+
+IAT(K):	355.21
+MAP(P):	9879.72
+ECT(K):	364.01
+ECT cold enough, (<100C)- Not too hot - No change Needed
+Lambda:	10.65
+AFR > 1.05AFR Stochiometric, Mixture too lean
+Pump More fuel
+Fuel_T(K):	321.14
+Fuel Temp Sufficiently High (>30C): Heater Inactive
+PCB_temp:	299.74
+
+
+IAT(K):	355.34
+MAP(P):	9930.26
+ECT(K):	364.40
+ECT cold enough, (<100C)- Not too hot - No change Needed
+Lambda:	10.61
+AFR > 1.05AFR Stochiometric, Mixture too lean
+Pump More fuel
+Fuel_T(K):	321.14
+Fuel Temp Sufficiently High (>30C): Heater Inactive
+PCB_temp:	299.74
+
+
+IAT(K):	355.38
+MAP(P):	9930.26
+ECT(K):	364.91
+ECT cold enough, (<100C)- Not too hot - No change Needed
+Lambda:	10.66
+AFR > 1.05AFR Stochiometric, Mixture too lean
+Pump More fuel
+Fuel_T(K):	321.14
+Fuel Temp Sufficiently High (>30C): Heater Inactive
+PCB_temp:	299.74
+
+
+IAT(K):	355.38
+MAP(P):	9930.26
+ECT(K):	364.91
+ECT cold enough, (<100C)- Not too hot - No change Needed
+Lambda:	10.66
+AFR > 1.05AFR Stochiometric, Mixture too lean
+Pump More fuel
+Fuel_T(K):	321.14
+Fuel Temp Sufficiently High (>30C): Heater Inactive
+PCB_temp:	299.74
+
+
+IAT(K):	355.50
+MAP(P):	9930.26
+ECT(K):	364.91
+ECT cold enough, (<100C)- Not too hot - No change Needed
+Lambda:	10.61
+AFR > 1.05AFR Stochiometric, Mixture too lean
+Pump More fuel
+Fuel_T(K):	321.14
+Fuel Temp Sufficiently High (>30C): Heater Inactive
+PCB_temp:	299.86
+
+
+IAT(K):	355.38
+MAP(P):	9930.26
+ECT(K):	364.91
+ECT cold enough, (<100C)- Not too hot - No change Needed
+Lambda:	10.66
+AFR > 1.05AFR Stochiometric, Mixture too lean
+Pump More fuel
+Fuel_T(K):	321.14
+Fuel Temp Sufficiently High (>30C): Heater Inactive
+PCB_temp:	299.90
+
+
+IAT(K):	355.38
+MAP(P):	9921.84
+ECT(K):	364.91
+ECT cold enough, (<100C)- Not too hot - No change Needed
+Lambda:	10.65
+AFR > 1.05AFR Stochiometric, Mixture too lean
+Pump More fuel
+Fuel_T(K):	321.14
+Fuel Temp Sufficiently High (>30C): Heater Inactive
+PCB_temp:	299.86
+
+
+IAT(K):	355.50
+MAP(P):	9930.26
+ECT(K):	364.91
+ECT cold enough, (<100C)- Not too hot - No change Needed
+Lambda:	10.61
+AFR > 1.05AFR Stochiometric, Mixture too lean
+Pump More fuel
+Fuel_T(K):	321.14
+Fuel Temp Sufficiently High (>30C): Heater Inactive
+PCB_temp:	300.02
+PCB Temp too high, Shutting down

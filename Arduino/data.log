@@ -1,0 +1,960 @@
+=~=~=~=~=~=~=~=~=~=~=~= PuTTY log 2022.06.07 13:28:44 =~=~=~=~=~=~=~=~=~=~=~=                                                                                                                                                                                   Åby ·----Air and Fuel flow calculations---
+M_air(g/s):	10.35
+M_fuel_desired(g/s):	1.06
+t_fuel(ms):	0.62
+Random Impulse:	 0.99
+Fuel_actual_:	 1.05
+NewPower:	4552.17
+New_RPM_:	3105.17
+New_AFR_:	 9.83
+Adjust fuel next time by a factor of:	0.97
+----Air and Fuel flow calculations---
+M_air(g/s):	10.71
+M_fuel_desired(g/s):	1.03
+t_fuel(ms):	0.60
+Random Impulse:	 1.00
+Fuel_actual_:	 1.03
+NewPower:	4451.20
+New_RPM_:	3036.29
+New_AFR_:	 10.40
+Adjust fuel next time by a factor of:	0.99
+----Air and Fuel flow calculations---
+M_air(g/s):	10.48
+M_fuel_desired(g/s):	1.05
+t_fuel(ms):	0.62
+Random Impulse:	 1.01
+Fuel_actual_:	 1.06
+NewPower:	4570.31
+New_RPM_:	3117.54
+New_AFR_:	 9.91
+Adjust fuel next time by a factor of:	0.96
+----Air and Fuel flow calculations---
+M_air(g/s):	10.76
+M_fuel_desired(g/s):	1.02
+t_fuel(ms):	0.60
+Random Impulse:	 0.99
+Fuel_actual_:	 1.01
+NewPower:	4384.96
+New_RPM_:	2991.11
+New_AFR_:	 10.60
+Adjust fuel next time by a factor of:	1.00
+----Air and Fuel flow calculations---
+M_air(g/s):	10.32
+M_fuel_desired(g/s):	1.06
+t_fuel(ms):	0.62
+Random Impulse:	 1.00
+Fuel_actual_:	 1.05
+NewPower:	4552.41
+New_RPM_:	3105.32
+New_AFR_:	 9.80
+Adjust fuel next time by a factor of:	0.97
+----Air and Fuel flow calculations---
+M_air(g/s):	10.72
+M_fuel_desired(g/s):	1.03
+t_fuel(ms):	0.60
+Random Impulse:	 0.99
+Fuel_actual_:	 1.01
+NewPower:	4375.61
+New_RPM_:	2984.73
+New_AFR_:	 10.58
+Adjust fuel next time by a factor of:	0.99
+----Air and Fuel flow calculations---
+M_air(g/s):	10.30
+M_fuel_desired(g/s):	1.06
+t_fuel(ms):	0.62
+Random Impulse:	 1.01
+Fuel_actual_:	 1.07
+NewPower:	4606.61
+New_RPM_:	3142.30
+New_AFR_:	 9.66
+Adjust fuel next time by a factor of:	0.95
+----Air and Fuel flow calculations---
+M_air(g/s):	10.84
+M_fuel_desired(g/s):	1.01
+t_fuel(ms):	0.59
+Random Impulse:	 0.99
+Fuel_actual_:	 1.01
+NewPower:	4350.41
+New_RPM_:	2967.54
+New_AFR_:	 10.77
+Adjust fuel next time by a factor of:	0.99
+----Air and Fuel flow calculations---
+M_air(g/s):	10.24
+M_fuel_desired(g/s):	1.05
+t_fuel(ms):	0.62
+Random Impulse:	 1.01
+Fuel_actual_:	 1.06
+NewPower:	4575.54
+New_RPM_:	3121.11
+New_AFR_:	 9.67
+Adjust fuel next time by a factor of:	0.96
+----Air and Fuel flow calculations---
+M_air(g/s):	10.77
+M_fuel_desired(g/s):	1.02
+t_fuel(ms):	0.60
+Random Impulse:	 1.00
+Fuel_actual_:	 1.02
+NewPower:	4428.47
+New_RPM_:	3020.78
+New_AFR_:	 10.51
+Adjust fuel next time by a factor of:	0.99
+----Air and Fuel flow calculations---
+M_air(g/s):	10.42
+M_fuel_desired(g/s):	1.05
+t_fuel(ms):	0.62
+Random Impulse:	 0.98
+Fuel_actual_:	 1.04
+NewPower:	4488.95
+New_RPM_:	3062.04
+New_AFR_:	 10.04
+Adjust fuel next time by a factor of:	0.98
+----Air and Fuel flow calculations---
+M_air(g/s):	10.57
+M_fuel_desired(g/s):	1.04
+t_fuel(ms):	0.61
+Random Impulse:	 0.99
+Fuel_actual_:	 1.03
+NewPower:	4450.95
+New_RPM_:	3036.12
+New_AFR_:	 10.26
+Adjust fuel next time by a factor of:	0.99
+----Air and Fuel flow calculations---
+M_air(g/s):	10.48
+M_fuel_desired(g/s):	1.05
+t_fuel(ms):	0.62
+Random Impulse:	 1.00
+Fuel_actual_:	 1.05
+NewPower:	4520.69
+New_RPM_:	3083.69
+New_AFR_:	 10.02
+Adjust fuel next time by a factor of:	0.97
+----Air and Fuel flow calculations---
+M_air(g/s):	10.64
+M_fuel_desired(g/s):	1.03
+t_fuel(ms):	0.61
+Random Impulse:	 0.99
+Fuel_actual_:	 1.02
+NewPower:	4406.31
+New_RPM_:	3005.67
+New_AFR_:	 10.44
+Adjust fuel next time by a factor of:	1.00
+----Air and Fuel flow calculations---
+M_air(g/s):	10.37
+M_fuel_desired(g/s):	1.06
+t_fuel(ms):	0.62
+Random Impulse:	 1.01
+Fuel_actual_:	 1.07
+NewPower:	4635.20
+New_RPM_:	3161.80
+New_AFR_:	 9.67
+Adjust fuel next time by a factor of:	0.95
+----Air and Fuel flow calculations---
+M_air(g/s):	10.91
+M_fuel_desired(g/s):	1.01
+t_fuel(ms):	0.59
+Random Impulse:	 1.01
+Fuel_actual_:	 1.02
+NewPower:	4388.89
+New_RPM_:	2993.79
+New_AFR_:	 10.74
+Adjust fuel next time by a factor of:	1.00
+----Air and Fuel flow calculations---
+M_air(g/s):	10.33
+M_fuel_desired(g/s):	1.06
+t_fuel(ms):	0.62
+Random Impulse:	 0.99
+Fuel_actual_:	 1.05
+NewPower:	4542.75
+New_RPM_:	3098.73
+New_AFR_:	 9.83
+Adjust fuel next time by a factor of:	0.97
+----Air and Fuel flow calculations---
+M_air(g/s):	10.69
+M_fuel_desired(g/s):	1.03
+t_fuel(ms):	0.60
+Random Impulse:	 1.00
+Fuel_actual_:	 1.03
+NewPower:	4460.44
+New_RPM_:	3042.59
+New_AFR_:	 10.36
+Adjust fuel next time by a factor of:	0.99
+----Air and Fuel flow calculations---
+M_air(g/s):	10.50
+M_fuel_desired(g/s):	1.05
+t_fuel(ms):	0.61
+Random Impulse:	 1.00
+Fuel_actual_:	 1.04
+NewPower:	4502.02
+New_RPM_:	3070.96
+New_AFR_:	 10.08
+Adjust fuel next time by a factor of:	0.98
+----Air and Fuel flow calculations---
+M_air(g/s):	10.60
+M_fuel_desired(g/s):	1.04
+t_fuel(ms):	0.61
+Random Impulse:	 1.01
+Fuel_actual_:	 1.04
+NewPower:	4514.23
+New_RPM_:	3079.29
+New_AFR_:	 10.15
+Adjust fuel next time by a factor of:	0.97
+----Air and Fuel flow calculations---
+M_air(g/s):	10.63
+M_fuel_desired(g/s):	1.03
+t_fuel(ms):	0.61
+Random Impulse:	 0.99
+Fuel_actual_:	 1.02
+NewPower:	4417.08
+New_RPM_:	3013.02
+New_AFR_:	 10.40
+Adjust fuel next time by a factor of:	1.00
+----Air and Fuel flow calculations---
+M_air(g/s):	10.40
+M_fuel_desired(g/s):	1.06
+t_fuel(ms):	0.62
+Random Impulse:	 1.00
+Fuel_actual_:	 1.06
+NewPower:	4587.34
+New_RPM_:	3129.15
+New_AFR_:	 9.80
+Adjust fuel next time by a factor of:	0.96
+----Air and Fuel flow calculations---
+M_air(g/s):	10.80
+M_fuel_desired(g/s):	1.02
+t_fuel(ms):	0.60
+Random Impulse:	 0.99
+Fuel_actual_:	 1.01
+NewPower:	4373.09
+New_RPM_:	2983.01
+New_AFR_:	 10.67
+Adjust fuel next time by a factor of:	0.99
+----Air and Fuel flow calculations---
+M_air(g/s):	10.29
+M_fuel_desired(g/s):	1.06
+t_fuel(ms):	0.62
+Random Impulse:	 1.00
+Fuel_actual_:	 1.06
+NewPower:	4572.02
+New_RPM_:	3118.70
+New_AFR_:	 9.73
+Adjust fuel next time by a factor of:	0.96
+----Air and Fuel flow calculations---
+M_air(g/s):	10.76
+M_fuel_desired(g/s):	1.02
+t_fuel(ms):	0.60
+Random Impulse:	 1.00
+Fuel_actual_:	 1.02
+NewPower:	4392.16
+New_RPM_:	2996.01
+New_AFR_:	 10.59
+Adjust fuel next time by a factor of:	1.00
+----Air and Fuel flow calculations---
+M_air(g/s):	10.34
+M_fuel_desired(g/s):	1.06
+t_fuel(ms):	0.62
+Random Impulse:	 0.99
+Fuel_actual_:	 1.05
+NewPower:	4527.79
+New_RPM_:	3088.54
+New_AFR_:	 9.87
+Adjust fuel next time by a factor of:	0.97
+----Air and Fuel flow calculations---
+M_air(g/s):	10.66
+M_fuel_desired(g/s):	1.03
+t_fuel(ms):	0.61
+Random Impulse:	 0.99
+Fuel_actual_:	 1.03
+NewPower:	4430.60
+New_RPM_:	3022.23
+New_AFR_:	 10.40
+Adjust fuel next time by a factor of:	0.99
+----Air and Fuel flow calculations---
+M_air(g/s):	10.43
+M_fuel_desired(g/s):	1.05
+t_fuel(ms):	0.62
+Random Impulse:	 1.00
+Fuel_actual_:	 1.06
+NewPower:	4568.79
+New_RPM_:	3116.50
+New_AFR_:	 9.87
+Adjust fuel next time by a factor of:	0.96
+----Air and Fuel flow calculations---
+M_air(g/s):	10.75
+M_fuel_desired(g/s):	1.02
+t_fuel(ms):	0.60
+Random Impulse:	 1.01
+Fuel_actual_:	 1.03
+NewPower:	4465.93
+New_RPM_:	3046.34
+New_AFR_:	 10.41
+Adjust fuel next time by a factor of:	0.98
+----Air and Fuel flow calculations---
+M_air(g/s):	10.51
+M_fuel_desired(g/s):	1.05
+t_fuel(ms):	0.61
+Random Impulse:	 1.01
+Fuel_actual_:	 1.06
+NewPower:	4564.27
+New_RPM_:	3113.42
+New_AFR_:	 9.95
+Adjust fuel next time by a factor of:	0.96
+----Air and Fuel flow calculations---
+M_air(g/s):	10.74
+M_fuel_desired(g/s):	1.02
+t_fuel(ms):	0.60
+Random Impulse:	 0.99
+Fuel_actual_:	 1.01
+NewPower:	4386.34
+New_RPM_:	2992.05
+New_AFR_:	 10.59
+Adjust fuel next time by a factor of:	1.00
+----Air and Fuel flow calculations---
+M_air(g/s):	10.32
+M_fuel_desired(g/s):	1.06
+t_fuel(ms):	0.62
+Random Impulse:	 1.01
+Fuel_actual_:	 1.07
+NewPower:	4627.07
+New_RPM_:	3156.25
+New_AFR_:	 9.64
+Adjust fuel next time by a factor of:	0.95
+----Air and Fuel flow calculations---
+M_air(g/s):	10.89
+M_fuel_desired(g/s):	1.01
+t_fuel(ms):	0.59
+Random Impulse:	 0.99
+Fuel_actual_:	 1.00
+NewPower:	4305.01
+New_RPM_:	2936.57
+New_AFR_:	 10.93
+Adjust fuel next time by a factor of:	0.98
+----Air and Fuel flow calculations---
+M_air(g/s):	10.13
+M_fuel_desired(g/s):	1.04
+t_fuel(ms):	0.61
+Random Impulse:	 0.99
+Fuel_actual_:	 1.03
+NewPower:	4455.92
+New_RPM_:	3039.51
+New_AFR_:	 9.83
+Adjust fuel next time by a factor of:	0.99
+----Air and Fuel flow calculations---
+M_air(g/s):	10.49
+M_fuel_desired(g/s):	1.05
+t_fuel(ms):	0.61
+Random Impulse:	 1.00
+Fuel_actual_:	 1.05
+NewPower:	4551.88
+New_RPM_:	3104.97
+New_AFR_:	 9.96
+Adjust fuel next time by a factor of:	0.97
+----Air and Fuel flow calculations---
+M_air(g/s):	10.71
+M_fuel_desired(g/s):	1.03
+t_fuel(ms):	0.60
+Random Impulse:	 0.99
+Fuel_actual_:	 1.01
+NewPower:	4380.55
+New_RPM_:	2988.10
+New_AFR_:	 10.57
+Adjust fuel next time by a factor of:	1.00
+----Air and Fuel flow calculations---
+M_air(g/s):	10.31
+M_fuel_desired(g/s):	1.06
+t_fuel(ms):	0.62
+Random Impulse:	 1.00
+Fuel_actual_:	 1.06
+NewPower:	4588.96
+New_RPM_:	3130.26
+New_AFR_:	 9.71
+Adjust fuel next time by a factor of:	0.96
+----Air and Fuel flow calculations---
+M_air(g/s):	10.80
+M_fuel_desired(g/s):	1.02
+t_fuel(ms):	0.60
+Random Impulse:	 1.00
+Fuel_actual_:	 1.02
+NewPower:	4415.52
+New_RPM_:	3011.95
+New_AFR_:	 10.57
+Adjust fuel next time by a factor of:	1.00
+----Air and Fuel flow calculations---
+M_air(g/s):	10.39
+M_fuel_desired(g/s):	1.06
+t_fuel(ms):	0.62
+Random Impulse:	 0.99
+Fuel_actual_:	 1.05
+NewPower:	4543.25
+New_RPM_:	3099.08
+New_AFR_:	 9.89
+Adjust fuel next time by a factor of:	0.97
+----Air and Fuel flow calculations---
+M_air(g/s):	10.69
+M_fuel_desired(g/s):	1.03
+t_fuel(ms):	0.60
+Random Impulse:	 1.01
+Fuel_actual_:	 1.03
+NewPower:	4468.83
+New_RPM_:	3048.31
+New_AFR_:	 10.34
+Adjust fuel next time by a factor of:	0.98
+----Air and Fuel flow calculations---
+M_air(g/s):	10.52
+M_fuel_desired(g/s):	1.04
+t_fuel(ms):	0.61
+Random Impulse:	 0.99
+Fuel_actual_:	 1.04
+NewPower:	4480.03
+New_RPM_:	3055.95
+New_AFR_:	 10.15
+Adjust fuel next time by a factor of:	0.98
+----Air and Fuel flow calculations---
+M_air(g/s):	10.54
+M_fuel_desired(g/s):	1.04
+t_fuel(ms):	0.61
+Random Impulse:	 0.99
+Fuel_actual_:	 1.03
+NewPower:	4446.30
+New_RPM_:	3032.95
+New_AFR_:	 10.25
+Adjust fuel next time by a factor of:	0.99
+----Air and Fuel flow calculations---
+M_air(g/s):	10.47
+M_fuel_desired(g/s):	1.05
+t_fuel(ms):	0.62
+Random Impulse:	 1.00
+Fuel_actual_:	 1.05
+NewPower:	4529.95
+New_RPM_:	3090.01
+New_AFR_:	 9.99
+Adjust fuel next time by a factor of:	0.97
+----Air and Fuel flow calculations---
+M_air(g/s):	10.66
+M_fuel_desired(g/s):	1.03
+t_fuel(ms):	0.60
+Random Impulse:	 0.99
+Fuel_actual_:	 1.02
+NewPower:	4415.12
+New_RPM_:	3011.68
+New_AFR_:	 10.44
+Adjust fuel next time by a factor of:	1.00
+----Air and Fuel flow calculations---
+M_air(g/s):	10.39
+M_fuel_desired(g/s):	1.06
+t_fuel(ms):	0.62
+Random Impulse:	 0.99
+Fuel_actual_:	 1.05
+NewPower:	4525.38
+New_RPM_:	3086.89
+New_AFR_:	 9.93
+Adjust fuel next time by a factor of:	0.97
+----Air and Fuel flow calculations---
+M_air(g/s):	10.65
+M_fuel_desired(g/s):	1.03
+t_fuel(ms):	0.61
+Random Impulse:	 0.99
+Fuel_actual_:	 1.02
+NewPower:	4415.12
+New_RPM_:	3011.68
+New_AFR_:	 10.43
+Adjust fuel next time by a factor of:	1.00
+----Air and Fuel flow calculations---
+M_air(g/s):	10.39
+M_fuel_desired(g/s):	1.06
+t_fuel(ms):	0.62
+Random Impulse:	 0.99
+Fuel_actual_:	 1.05
+NewPower:	4539.10
+New_RPM_:	3096.25
+New_AFR_:	 9.90
+Adjust fuel next time by a factor of:	0.97
+----Air and Fuel flow calculations---
+M_air(g/s):	10.68
+M_fuel_desired(g/s):	1.03
+t_fuel(ms):	0.60
+Random Impulse:	 0.99
+Fuel_actual_:	 1.01
+NewPower:	4383.99
+New_RPM_:	2990.45
+New_AFR_:	 10.53
+Adjust fuel next time by a factor of:	1.00
+----Air and Fuel flow calculations---
+M_air(g/s):	10.32
+M_fuel_desired(g/s):	1.06
+t_fuel(ms):	0.62
+Random Impulse:	 1.01
+Fuel_actual_:	 1.07
+NewPower:	4615.44
+New_RPM_:	3148.32
+New_AFR_:	 9.66
+Adjust fuel next time by a factor of:	0.95
+----Air and Fuel flow calculations---
+M_air(g/s):	10.86
+M_fuel_desired(g/s):	1.01
+t_fuel(ms):	0.59
+Random Impulse:	 0.99
+Fuel_actual_:	 1.00
+NewPower:	4337.72
+New_RPM_:	2958.88
+New_AFR_:	 10.82
+Adjust fuel next time by a factor of:	0.99
+----Air and Fuel flow calculations---
+M_air(g/s):	10.21
+M_fuel_desired(g/s):	1.05
+t_fuel(ms):	0.61
+Random Impulse:	 1.00
+Fuel_actual_:	 1.04
+NewPower:	4507.88
+New_RPM_:	3074.95
+New_AFR_:	 9.79
+Adjust fuel next time by a factor of:	0.98
+----Air and Fuel flow calculations---
+M_air(g/s):	10.61
+M_fuel_desired(g/s):	1.04
+t_fuel(ms):	0.61
+Random Impulse:	 1.01
+Fuel_actual_:	 1.04
+NewPower:	4512.85
+New_RPM_:	3078.34
+New_AFR_:	 10.16
+Adjust fuel next time by a factor of:	0.97
+----Air and Fuel flow calculations---
+M_air(g/s):	10.62
+M_fuel_desired(g/s):	1.03
+t_fuel(ms):	0.61
+Random Impulse:	 1.01
+Fuel_actual_:	 1.05
+NewPower:	4530.24
+New_RPM_:	3090.21
+New_AFR_:	 10.13
+Adjust fuel next time by a factor of:	0.97
+----Air and Fuel flow calculations---
+M_air(g/s):	10.66
+M_fuel_desired(g/s):	1.03
+t_fuel(ms):	0.60
+Random Impulse:	 0.99
+Fuel_actual_:	 1.02
+NewPower:	4405.93
+New_RPM_:	3005.41
+New_AFR_:	 10.46
+Adjust fuel next time by a factor of:	1.00
+----Air and Fuel flow calculations---
+M_air(g/s):	10.37
+M_fuel_desired(g/s):	1.06
+t_fuel(ms):	0.62
+Random Impulse:	 1.01
+Fuel_actual_:	 1.07
+NewPower:	4640.18
+New_RPM_:	3165.20
+New_AFR_:	 9.66
+Adjust fuel next time by a factor of:	0.95
+----Air and Fuel flow calculations---
+M_air(g/s):	10.92
+M_fuel_desired(g/s):	1.01
+t_fuel(ms):	0.59
+Random Impulse:	 1.00
+Fuel_actual_:	 1.01
+NewPower:	4371.13
+New_RPM_:	2981.67
+New_AFR_:	 10.80
+Adjust fuel next time by a factor of:	0.99
+----Air and Fuel flow calculations---
+M_air(g/s):	10.29
+M_fuel_desired(g/s):	1.06
+t_fuel(ms):	0.62
+Random Impulse:	 1.01
+Fuel_actual_:	 1.06
+NewPower:	4601.90
+New_RPM_:	3139.09
+New_AFR_:	 9.66
+Adjust fuel next time by a factor of:	0.96
+----Air and Fuel flow calculations---
+M_air(g/s):	10.83
+M_fuel_desired(g/s):	1.01
+t_fuel(ms):	0.60
+Random Impulse:	 1.01
+Fuel_actual_:	 1.03
+NewPower:	4433.80
+New_RPM_:	3024.42
+New_AFR_:	 10.56
+Adjust fuel next time by a factor of:	0.99
+----Air and Fuel flow calculations---
+M_air(g/s):	10.44
+M_fuel_desired(g/s):	1.05
+t_fuel(ms):	0.62
+Random Impulse:	 0.98
+Fuel_actual_:	 1.04
+NewPower:	4483.55
+New_RPM_:	3058.36
+New_AFR_:	 10.06
+Adjust fuel next time by a factor of:	0.98
+----Air and Fuel flow calculations---
+M_air(g/s):	10.55
+M_fuel_desired(g/s):	1.04
+t_fuel(ms):	0.61
+Random Impulse:	 1.00
+Fuel_actual_:	 1.04
+NewPower:	4492.32
+New_RPM_:	3064.34
+New_AFR_:	 10.15
+Adjust fuel next time by a factor of:	0.98
+----Air and Fuel flow calculations---
+M_air(g/s):	10.57
+M_fuel_desired(g/s):	1.04
+t_fuel(ms):	0.61
+Random Impulse:	 1.01
+Fuel_actual_:	 1.05
+NewPower:	4523.98
+New_RPM_:	3085.94
+New_AFR_:	 10.10
+Adjust fuel next time by a factor of:	0.97
+----Air and Fuel flow calculations---
+M_air(g/s):	10.65
+M_fuel_desired(g/s):	1.03
+t_fuel(ms):	0.61
+Random Impulse:	 1.00
+Fuel_actual_:	 1.03
+NewPower:	4465.56
+New_RPM_:	3046.08
+New_AFR_:	 10.31
+Adjust fuel next time by a factor of:	0.98
+----Air and Fuel flow calculations---
+M_air(g/s):	10.51
+M_fuel_desired(g/s):	1.05
+t_fuel(ms):	0.61
+Random Impulse:	 0.99
+Fuel_actual_:	 1.04
+NewPower:	4492.35
+New_RPM_:	3064.36
+New_AFR_:	 10.11
+Adjust fuel next time by a factor of:	0.98
+----Air and Fuel flow calculations---
+M_air(g/s):	10.57
+M_fuel_desired(g/s):	1.04
+t_fuel(ms):	0.61
+Random Impulse:	 1.00
+Fuel_actual_:	 1.04
+NewPower:	4488.02
+New_RPM_:	3061.40
+New_AFR_:	 10.18
+Adjust fuel next time by a factor of:	0.98
+----Air and Fuel flow calculations---
+M_air(g/s):	10.56
+M_fuel_desired(g/s):	1.04
+t_fuel(ms):	0.61
+Random Impulse:	 1.00
+Fuel_actual_:	 1.04
+NewPower:	4478.86
+New_RPM_:	3055.15
+New_AFR_:	 10.19
+Adjust fuel next time by a factor of:	0.98
+----Air and Fuel flow calculations---
+M_air(g/s):	10.54
+M_fuel_desired(g/s):	1.04
+t_fuel(ms):	0.61
+Random Impulse:	 1.00
+Fuel_actual_:	 1.04
+NewPower:	4497.03
+New_RPM_:	3067.55
+New_AFR_:	 10.13
+Adjust fuel next time by a factor of:	0.98
+----Air and Fuel flow calculations---
+M_air(g/s):	10.58
+M_fuel_desired(g/s):	1.04
+t_fuel(ms):	0.61
+Random Impulse:	 1.01
+Fuel_actual_:	 1.05
+NewPower:	4541.69
+New_RPM_:	3098.01
+New_AFR_:	 10.07
+Adjust fuel next time by a factor of:	0.97
+----Air and Fuel flow calculations---
+M_air(g/s):	10.69
+M_fuel_desired(g/s):	1.03
+t_fuel(ms):	0.60
+Random Impulse:	 1.00
+Fuel_actual_:	 1.03
+NewPower:	4457.04
+New_RPM_:	3040.27
+New_AFR_:	 10.37
+Adjust fuel next time by a factor of:	0.99
+----Air and Fuel flow calculations---
+M_air(g/s):	10.49
+M_fuel_desired(g/s):	1.05
+t_fuel(ms):	0.61
+Random Impulse:	 1.00
+Fuel_actual_:	 1.05
+NewPower:	4541.69
+New_RPM_:	3098.01
+New_AFR_:	 9.98
+Adjust fuel next time by a factor of:	0.97
+----Air and Fuel flow calculations---
+M_air(g/s):	10.69
+M_fuel_desired(g/s):	1.03
+t_fuel(ms):	0.60
+Random Impulse:	 1.00
+Fuel_actual_:	 1.03
+NewPower:	4434.82
+New_RPM_:	3025.12
+New_AFR_:	 10.42
+Adjust fuel next time by a factor of:	0.99
+----Air and Fuel flow calculations---
+M_air(g/s):	10.44
+M_fuel_desired(g/s):	1.05
+t_fuel(ms):	0.62
+Random Impulse:	 1.01
+Fuel_actual_:	 1.07
+NewPower:	4609.95
+New_RPM_:	3144.58
+New_AFR_:	 9.79
+Adjust fuel next time by a factor of:	0.95
+----Air and Fuel flow calculations---
+M_air(g/s):	10.85
+M_fuel_desired(g/s):	1.01
+t_fuel(ms):	0.59
+Random Impulse:	 0.99
+Fuel_actual_:	 1.00
+NewPower:	4316.62
+New_RPM_:	2944.49
+New_AFR_:	 10.86
+Adjust fuel next time by a factor of:	0.98
+----Air and Fuel flow calculations---
+M_air(g/s):	10.16
+M_fuel_desired(g/s):	1.04
+t_fuel(ms):	0.61
+Random Impulse:	 1.01
+Fuel_actual_:	 1.05
+NewPower:	4549.01
+New_RPM_:	3103.01
+New_AFR_:	 9.65
+Adjust fuel next time by a factor of:	0.97
+----Air and Fuel flow calculations---
+M_air(g/s):	10.71
+M_fuel_desired(g/s):	1.03
+t_fuel(ms):	0.60
+Random Impulse:	 1.00
+Fuel_actual_:	 1.02
+NewPower:	4427.68
+New_RPM_:	3020.25
+New_AFR_:	 10.45
+Adjust fuel next time by a factor of:	0.99
+----Air and Fuel flow calculations---
+M_air(g/s):	10.42
+M_fuel_desired(g/s):	1.05
+t_fuel(ms):	0.62
+Random Impulse:	 1.00
+Fuel_actual_:	 1.05
+NewPower:	4558.12
+New_RPM_:	3109.23
+New_AFR_:	 9.88
+Adjust fuel next time by a factor of:	0.96
+----Air and Fuel flow calculations---
+M_air(g/s):	10.73
+M_fuel_desired(g/s):	1.02
+t_fuel(ms):	0.60
+Random Impulse:	 0.99
+Fuel_actual_:	 1.01
+NewPower:	4378.98
+New_RPM_:	2987.02
+New_AFR_:	 10.59
+Adjust fuel next time by a factor of:	1.00
+----Air and Fuel flow calculations---
+M_air(g/s):	10.31
+M_fuel_desired(g/s):	1.06
+t_fuel(ms):	0.62
+Random Impulse:	 1.01
+Fuel_actual_:	 1.07
+NewPower:	4605.59
+New_RPM_:	3141.60
+New_AFR_:	 9.67
+Adjust fuel next time by a factor of:	0.95
+----Air and Fuel flow calculations---
+M_air(g/s):	10.84
+M_fuel_desired(g/s):	1.01
+t_fuel(ms):	0.59
+Random Impulse:	 0.99
+Fuel_actual_:	 1.00
+NewPower:	4342.61
+New_RPM_:	2962.22
+New_AFR_:	 10.79
+Adjust fuel next time by a factor of:	0.99
+----Air and Fuel flow calculations---
+M_air(g/s):	10.22
+M_fuel_desired(g/s):	1.05
+t_fuel(ms):	0.62
+Random Impulse:	 0.99
+Fuel_actual_:	 1.04
+NewPower:	4485.78
+New_RPM_:	3059.88
+New_AFR_:	 9.85
+Adjust fuel next time by a factor of:	0.98
+----Air and Fuel flow calculations---
+M_air(g/s):	10.56
+M_fuel_desired(g/s):	1.04
+t_fuel(ms):	0.61
+Random Impulse:	 1.01
+Fuel_actual_:	 1.06
+NewPower:	4562.07
+New_RPM_:	3111.92
+New_AFR_:	 10.00
+Adjust fuel next time by a factor of:	0.96
+----Air and Fuel flow calculations---
+M_air(g/s):	10.74
+M_fuel_desired(g/s):	1.02
+t_fuel(ms):	0.60
+Random Impulse:	 1.00
+Fuel_actual_:	 1.02
+NewPower:	4423.85
+New_RPM_:	3017.63
+New_AFR_:	 10.49
+Adjust fuel next time by a factor of:	0.99
+----Air and Fuel flow calculations---
+M_air(g/s):	10.41
+M_fuel_desired(g/s):	1.06
+t_fuel(ms):	0.62
+Random Impulse:	 0.99
+Fuel_actual_:	 1.04
+NewPower:	4511.89
+New_RPM_:	3077.69
+New_AFR_:	 9.97
+Adjust fuel next time by a factor of:	0.97
+----Air and Fuel flow calculations---
+M_air(g/s):	10.62
+M_fuel_desired(g/s):	1.03
+t_fuel(ms):	0.61
+Random Impulse:	 0.99
+Fuel_actual_:	 1.03
+NewPower:	4446.21
+New_RPM_:	3032.89
+New_AFR_:	 10.32
+Adjust fuel next time by a factor of:	0.99
+----Air and Fuel flow calculations---
+M_air(g/s):	10.47
+M_fuel_desired(g/s):	1.05
+t_fuel(ms):	0.62
+Random Impulse:	 0.99
+Fuel_actual_:	 1.04
+NewPower:	4475.58
+New_RPM_:	3052.92
+New_AFR_:	 10.11
+Adjust fuel next time by a factor of:	0.98
+----Air and Fuel flow calculations---
+M_air(g/s):	10.53
+M_fuel_desired(g/s):	1.04
+t_fuel(ms):	0.61
+Random Impulse:	 1.00
+Fuel_actual_:	 1.05
+NewPower:	4518.36
+New_RPM_:	3082.10
+New_AFR_:	 10.08
+Adjust fuel next time by a factor of:	0.97
+----Air and Fuel flow calculations---
+M_air(g/s):	10.64
+M_fuel_desired(g/s):	1.03
+t_fuel(ms):	0.61
+Random Impulse:	 0.99
+Fuel_actual_:	 1.02
+NewPower:	4421.98
+New_RPM_:	3016.36
+New_AFR_:	 10.39
+Adjust fuel next time by a factor of:	0.99
+----Air and Fuel flow calculations---
+M_air(g/s):	10.41
+M_fuel_desired(g/s):	1.06
+t_fuel(ms):	0.62
+Random Impulse:	 1.00
+Fuel_actual_:	 1.06
+NewPower:	4564.00
+New_RPM_:	3113.24
+New_AFR_:	 9.86
+Adjust fuel next time by a factor of:	0.96
+----Air and Fuel flow calculations---
+M_air(g/s):	10.74
+M_fuel_desired(g/s):	1.02
+t_fuel(ms):	0.60
+Random Impulse:	 1.00
+Fuel_actual_:	 1.02
+NewPower:	4417.56
+New_RPM_:	3013.34
+New_AFR_:	 10.51
+Adjust fuel next time by a factor of:	1.00
+----Air and Fuel flow calculations---
+M_air(g/s):	10.40
+M_fuel_desired(g/s):	1.06
+t_fuel(ms):	0.62
+Random Impulse:	 1.01
+Fuel_actual_:	 1.06
+NewPower:	4595.98
+New_RPM_:	3135.05
+New_AFR_:	 9.78
+Adjust fuel next time by a factor of:	0.96
+----Air and Fuel flow calculations---
+M_air(g/s):	10.82
+M_fuel_desired(g/s):	1.02
+t_fuel(ms):	0.60
+Random Impulse:	 1.00
+Fuel_actual_:	 1.02
+NewPower:	4404.38
+New_RPM_:	3004.35
+New_AFR_:	 10.62
+Adjust fuel next time by a factor of:	1.00
+----Air and Fuel flow calculations---
+M_air(g/s):	10.37
+M_fuel_desired(g/s):	1.06
+t_fuel(ms):	0.62
+Random Impulse:	 1.00
+Fuel_actual_:	 1.06
+NewPower:	4595.98
+New_RPM_:	3135.05
+New_AFR_:	 9.75
+Adjust fuel next time by a factor of:	0.96
+----Air and Fuel flow calculations---
+M_air(g/s):	10.82
+M_fuel_desired(g/s):	1.02
+t_fuel(ms):	0.60
+Random Impulse:	 1.01
+Fuel_actual_:	 1.02
+NewPower:	4426.34
+New_RPM_:	3019.33
+New_AFR_:	 10.56
+Adjust fuel next time by a factor of:	0.99
+----Air and Fuel flow calculations---
+M_air(g/s):	10.42
+M_fuel_desired(g/s):	1.05
+t_fuel(ms):	0.62
+Random Impulse:	 0.99
+Fuel_actual_:	 1.04
+NewPower:	4513.91
+New_RPM_:	3079.07
+New_AFR_:	 9.98
+Adjust fuel next time by a factor of:	0.97
+----Air and Fuel flow calculations---
+M_air(g/s):	10.62
+M_fuel_desired(g/s):	1.03
+t_fuel(ms):	0.61
+Random Impulse:	 1.01
+Fuel_actual_:	 1.04
+NewPower:	4502.35
+New_RPM_:	3071.18
+New_AFR_:	 10.20
+Adjust fuel next time by a factor of:	0.98
+----Air and Fuel flow calculations---
+M_air(g/s):	10.60
+M_fuel_desired(g/s):	1.04
+t_fuel(ms):	0.61
+Random Impulse:	 1.00
+Fuel_actual_:	 1.03
+NewPower:	4469.09
+New_RPM_:	3048.49
+New_AFR_:	 10.25
+Adjust fuel next time by a factor of:	0.98
+----Air and Fuel flow calculations---
+M_air(g/s):	10.52
+M_fuel_desired(g/s):	1.04
+t_fuel(ms):	0.61
+Random Impulse:	 1.01
+Fuel_actual_:	 1.06
+NewPower:	4565.57
+New_RPM_:	3114.30
+New_AFR_:	 9.96
+Adjust fuel next time by a fa
