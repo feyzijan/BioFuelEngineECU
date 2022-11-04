@@ -5,7 +5,11 @@
 // Create the MCP9808 temperature sensor object
 Adafruit_MCP9808 tempsensor = Adafruit_MCP9808();
 
+// Define pins
 #define tempPin 0
+
+// Define variables
+
 
 float timer;
 

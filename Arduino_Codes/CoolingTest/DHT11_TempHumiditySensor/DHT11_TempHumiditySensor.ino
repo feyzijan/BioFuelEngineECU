@@ -1,6 +1,7 @@
-
+// Impots
 #include <dht_nonblocking.h>
 #define DHT_SENSOR_TYPE DHT_TYPE_11
+
 
 static const int DHT_SENSOR_PIN = 2;
 DHT_nonblocking dht_sensor( DHT_SENSOR_PIN, DHT_SENSOR_TYPE );
@@ -14,8 +15,7 @@ void setup( )
 
 
 
-/*
- * Poll for a measurement, keeping the state machine alive.  
+/* Poll for a measurement, keeping the state machine alive.  
  * Returns true if a measurement is available.
  */
 static bool measure_environment( float *temperature, float *humidity )
